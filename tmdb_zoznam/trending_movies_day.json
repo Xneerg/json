@@ -48,5 +48,31 @@
       "link": "https://www.themoviedb.org/movie/1261825-oh-what-fun/watch?locale=SK",
       "stream": "Amazon Prime Video"
     }
+  },
+  {
+    "tmdb_id": 1084242,
+    "nazov_en": "Zootopia 2",
+    "nazov_sk": "Zootropolis 2",
+    "nazov_cz": "Zootropolis: Město zvířat 2",
+    "rok_vydania": "2025",
+    "tip": "Film",
+    "obsah": "Popis nie je dostupný.",
+    "žáner": "Animovaný, Rodinný, Komédia, Dobrodružný",
+    "réžia": "Jared Bush",
+    "herci": "Ginnifer Goodwin, Jason Bateman, Ke Huy Quan, Fortune Feimster, Andy Samberg, David Strathairn, Idris Elba, Shakira, Patrick Warburton, Quinta Brunson",
+    "štúdiá": "Walt Disney Animation Studios",
+    "hodnotenie": 7.7,
+    "pocet_hlasov": 337,
+    "stopaz_min": 107,
+    "poster": "https://image.tmdb.org/t/p/w500/uWlPjTrbb930mZlLNASwjwEMiS1.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/movie/1084242",
+    "imdb_id": "tt26443597",
+    "kolekcia": {
+      "nazov": "Zootopia Collection",
+      "id": 1084247,
+      "poster": "https://image.tmdb.org/t/p/w500/u8597pdwSHOvcJQhP2cLi7a67ZW.jpg"
+    },
+    "kde_pozriet_sk": {}
   }
 ]
