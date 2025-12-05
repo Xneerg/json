@@ -1,0 +1,930 @@
+[
+  {
+    "tmdb_id": 66732,
+    "nazov_en": "Stranger Things",
+    "nazov_sk": "Stranger Things",
+    "rok_vydania": "2016",
+    "tip": "Seriál",
+    "obsah": "Will, Mike, Dustin a Lucas sú štyria najlepší priatelia zo školy, ktorí spolu každodenne trávia voľný čas. V jeden večer, keď sa Will vyberie domov, sa po ňom zlahne zem. Kým zúfalá matka spolu so starším synom spočiatku iba prihliadajú na kroky miestneho šerifa, zvyšok partie malých chlapcov podniká pátraciu akciu na vlastnú päsť. Willa však nevedia nikde nájsť a mesto začne odhaľovať svoje záhady, medzi ktoré patria aj tajné experimenty, nadprirodzené sily a jedno malé čudné dievča...",
+    "žáner": "Sci-Fi & Fantasy, Mysteriózny, Akčný a Dobrodružný",
+    "réžia": "Neznámy",
+    "herci": "Millie Bobby Brown, Winona Ryder, David Harbour, Finn Wolfhard, Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp, Sadie Sink, Charlie Heaton, Natalia Dyer",
+    "štúdiá": "21 Laps Entertainment, Monkey Massacre Productions, Upside Down Pictures",
+    "hodnotenie": 8.6,
+    "pocet_hlasov": 19381,
+    "poster": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/66732",
+    "imdb_id": "tt4574334",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/66732-stranger-things/watch?locale=SK",
+      "stream": "Netflix"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Kapitola prvá: Zmiznutie Willa Byersa",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Kapitola druhá: Pošuk na Maple Street",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Kapitola tretia: Šťastné a veselé",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Kapitola štvrtá: Telo",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Kapitola piata: Blcha a akrobat",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Kapitola šiesta: Príšera",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Kapitola siedma: Vaňa",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Kapitola ôsma: Hore nohami",
+            "datum_premiery": "2016-07-15"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Kapitola prvá: Šialená Max",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Kapitola druhá: Koledu, Ty exot",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Kapitola tretia: Pulec",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Kapitola štvrtá: Mudrc Will",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Kapitola piata: Dig Dug",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Kapitola šiesta: Špeh",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Kapitola siedma: Stratená sestra",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Kapitola ôsma: Ovládač mysle",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Kapitola deviata: Brána",
+            "datum_premiery": "2017-10-27"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Kapitola prvá: Suzie, počuješ ma?",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Kapitola druhá: Krysy z obchoďáku",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Kapitola tretia: Prípad zmiznutej plavčíčky",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Kapitola štvrtá: Test saunou",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Kapitola piata: Armáda",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Kapitola šiesta: E Pluribus Unum",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Kapitola siedma: Uhryznutie",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Kapitola ôsma: Bitka pri Starcourte",
+            "datum_premiery": "2019-07-04"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Kapitola prvá: Klub Hellfire",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Kapitola druhá: Vecnova kliatba",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Kapitola tretia: Monštrum a superhrdina",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Kapitola štvrtá: Drahý Billy",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Kapitola piata: Projekt Nina",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Kapitola šiesta: Do hĺbky",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Kapitola siedma: Masaker v laboratóriu",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Kapitola ôsma: Otecko",
+            "datum_premiery": "2022-07-01"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Kapitola deviata: Hon na Vecnu",
+            "datum_premiery": "2022-07-01"
+          }
+        ]
+      },
+      {
+        "sezona": 5,
+        "nazov": "Séria 5",
+        "epizody": [
+          {
+            "cislo": "S05E01",
+            "nazov": "Kapitola prvá: Prienik",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S05E02",
+            "nazov": "Kapitola druhá: Zmiznutie",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S05E03",
+            "nazov": "Kapitola tretia: Pasca u Turnbowovcoch",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S05E04",
+            "nazov": "Kapitola štvrtá: Čarodej",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S05E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2025-12-25"
+          },
+          {
+            "cislo": "S05E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2025-12-25"
+          },
+          {
+            "cislo": "S05E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2025-12-25"
+          },
+          {
+            "cislo": "S05E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2025-12-31"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 240459,
+    "nazov_en": "Spartacus: House of Ashur",
+    "nazov_sk": "Spartacus: House of Ashur",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Popis nie je dostupný.",
+    "žáner": "Dráma, Akčný a Dobrodružný",
+    "réžia": "Neznámy",
+    "herci": "Nick E. Tarabay, Graham McTavish, Tenika Davis, Jamaica Vaughan, Ivana Baquero, Jordi Webber, Claudia Black, India Shaw-Smith, Leigh Gill",
+    "štúdiá": "Lionsgate Television",
+    "hodnotenie": 1.0,
+    "pocet_hlasov": 3,
+    "poster": "https://image.tmdb.org/t/p/w500/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/29O1LSRZQyo69WhJQe7CP8zvPP3.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/240459",
+    "imdb_id": "tt29921437",
+    "kde_pozriet_sk": {},
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2025-12-05"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2025-12-05"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2025-12-12"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2025-12-19"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2025-12-26"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2026-01-02"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2026-01-09"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2026-01-16"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2026-01-23"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2026-01-30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 225171,
+    "nazov_en": "Pluribus",
+    "nazov_sk": "Pluribus",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Najutrápenejší človek na Zemi musí zachrániť svet pred šťastím.",
+    "žáner": "Dráma, Sci-Fi & Fantasy",
+    "réžia": "Neznámy",
+    "herci": "Rhea Seehorn, Karolina Wydra, Carlos-Manuel Vesga",
+    "štúdiá": "Sony Pictures Television, High Bridge Productions, Bristol Circle Entertainment",
+    "hodnotenie": 8.0,
+    "pocet_hlasov": 180,
+    "poster": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/ulm1ex4JFYJByyaPyqTr47MFyEQ.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/225171",
+    "imdb_id": "tt22202452",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/225171-pluribus/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "My sme my",
+            "datum_premiery": "2025-11-06"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Pirátka",
+            "datum_premiery": "2025-11-06"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Granát",
+            "datum_premiery": "2025-11-13"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Prosíme, Carol",
+            "datum_premiery": "2025-11-20"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Pili mlieko",
+            "datum_premiery": "2025-11-25"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Bielkoviny ľudského pôvodu",
+            "datum_premiery": "2025-12-04"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2025-12-11"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2025-12-18"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2025-12-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 223300,
+    "nazov_en": "The Abandons",
+    "nazov_sk": "The Abandons",
+    "nazov_cz": "Opuštění",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Popis nie je dostupný.",
+    "žáner": "Western, Dráma",
+    "réžia": "Neznámy",
+    "herci": "Lena Headeyová, Gillian Anderson, Nick Robinson, Diana Silvers, Lucas Till, Lamar Johnson, Aisling Franciosi, Natalia del Riego",
+    "štúdiá": "SutterInk",
+    "hodnotenie": 4.9,
+    "pocet_hlasov": 13,
+    "poster": "https://image.tmdb.org/t/p/w500/rQRzdfc0IlyiwM5HdzHdSYag9FG.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/Amaws3yNGpjl8lD2KfhaJHYKrZ2.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/223300",
+    "imdb_id": "tt16280546",
+    "kde_pozriet_sk": {},
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2025-12-04"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2025-12-04"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2025-12-04"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2025-12-04"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2025-12-04"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2025-12-04"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2025-12-04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 221079,
+    "nazov_en": "The Last Frontier",
+    "nazov_sk": "Posledná hranica",
+    "nazov_cz": "Nejzazší hranice",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Transportné lietadlo plné väzňov sa zrúti v odľahlej divočine Aljašky a utečú z neho desiatky nebezpečných zajatcov. Osamelý policajt musí ochrániť mesto, ktorému prisľúbil, že ho udrží v bezpečí.",
+    "žáner": "Kriminálny, Dráma",
+    "réžia": "Neznámy",
+    "herci": "Jason Clarke, Haley Bennett, Dominic Cooper, Simone Kessell, Dallas Goldtooth, Tait Blum, Alfre Woodard",
+    "štúdiá": "Apple Studios, Pickpocket Entertainment",
+    "hodnotenie": 7.4,
+    "pocet_hlasov": 94,
+    "poster": "https://image.tmdb.org/t/p/w500/Af92Di1qZFLTY6tKezVynMZChYz.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/u8bpEqCRWLzwe6Qs3WYabA0r6pO.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/221079",
+    "imdb_id": "tt26862142",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/221079-the-last-frontier/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Blue Skies",
+            "datum_premiery": "2025-10-09"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Wind of Change",
+            "datum_premiery": "2025-10-09"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Country as F**k",
+            "datum_premiery": "2025-10-16"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "American Dream",
+            "datum_premiery": "2025-10-23"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Arnaq",
+            "datum_premiery": "2025-10-30"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "The Devil Wears a Suit and Tie",
+            "datum_premiery": "2025-11-06"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Change of Time",
+            "datum_premiery": "2025-11-13"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "L’air Perdu",
+            "datum_premiery": "2025-11-20"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Converge",
+            "datum_premiery": "2025-11-25"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Everything Trying",
+            "datum_premiery": "2025-12-04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 209110,
+    "nazov_en": "The Price of Confession",
+    "nazov_sk": "자백의 대가",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Popis nie je dostupný.",
+    "žáner": "Mysteriózny, Dráma",
+    "réžia": "Neznámy",
+    "herci": "Jeon Do-yeon, 김고은, 박해수, Jin Sun-kyu, 최영준",
+    "štúdiá": "Studio Dragon, Production H",
+    "hodnotenie": 0.0,
+    "pocet_hlasov": 0,
+    "poster": "https://image.tmdb.org/t/p/w500/qwgyRVaKXNVzIEUTei1e0HJjXvv.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/4Bvk0EVHCjswWQYFHdRNsVWLtk8.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/209110",
+    "imdb_id": "tt37218592",
+    "kde_pozriet_sk": {},
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2025-12-05"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2025-12-05"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2025-12-05"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2025-12-05"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2025-12-05"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2025-12-05"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 200875,
+    "nazov_en": "IT: Welcome to Derry",
+    "nazov_sk": "IT: Welcome to Derry",
+    "nazov_cz": "TO: Vítejte v Derry",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Popis nie je dostupný.",
+    "žáner": "Dráma, Mysteriózny",
+    "réžia": "Neznámy",
+    "herci": "Taylour Paige, Jovan Adepo, Amanda Christine, Clara Stack, Matilda Lawler, Chris Chalk, James Remar, Stephen Rider, Blake Cameron James, Arian S. Cartaya",
+    "štúdiá": "Warner Bros. Television, Double Dream, Rideback, Vertigo Entertainment, HBO, FiveTen Productions, K Plus Ultra",
+    "hodnotenie": 8.2,
+    "pocet_hlasov": 600,
+    "poster": "https://image.tmdb.org/t/p/w500/ycC53SEDcY7YDOSrFqPQigxaCyx.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/2fOKVDoc2O3eZmBZesWPuE5kgPN.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/200875",
+    "imdb_id": "tt19244304",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/200875-it-welcome-to-derry/watch?locale=SK",
+      "stream": "HBO Max"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2025-10-26"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2025-11-02"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2025-11-09"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2025-11-16"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2025-11-23"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2025-11-30"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2025-12-07"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2025-12-14"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 256226,
+    "nazov_en": "Dear X",
+    "nazov_sk": "친애하는 X",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Popis nie je dostupný.",
+    "žáner": "Dráma, Kriminálny",
+    "réžia": "이응복",
+    "herci": "Kim You-jung, 김영대, 김도훈, 이열음",
+    "štúdiá": "Monster Union, Siwoo Company, Studio Dragon",
+    "hodnotenie": 8.8,
+    "pocet_hlasov": 8,
+    "stopaz_min": 64,
+    "poster": "https://image.tmdb.org/t/p/w500/9eTQfA8lC4027DrG0PBvEBVRKuM.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/jg5YEtslTml4OFaOafOfS1IbBL5.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/256226",
+    "imdb_id": "tt37890201",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/256226-x/watch?locale=SK",
+      "stream": "Rakuten Viki"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2025-11-06"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2025-11-06"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2025-11-06"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2025-11-06"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2025-11-13"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2025-11-13"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2025-11-20"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2025-11-20"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2025-11-27"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2025-11-27"
+          },
+          {
+            "cislo": "S01E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2025-12-04"
+          },
+          {
+            "cislo": "S01E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2025-12-04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 239385,
+    "nazov_en": "The Manipulated",
+    "nazov_sk": "조각도시",
+    "nazov_cz": "Manipulátor",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Popis nie je dostupný.",
+    "žáner": "Kriminálny, Dráma",
+    "réžia": "Neznámy",
+    "herci": "지창욱, 도경수, 이광수, 조윤수, 김종수, 양동근",
+    "štúdiá": "Studio Dragon, CJ ENM, Simplex Films",
+    "hodnotenie": 8.7,
+    "pocet_hlasov": 47,
+    "stopaz_min": 50,
+    "poster": "https://image.tmdb.org/t/p/w500/rX6RH1vlAcUlfgM44ENSo7t71zl.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/cqkmEHLE4LjPHSqKdLt4pJFJv0f.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/239385",
+    "imdb_id": "tt36188448",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/239385/watch?locale=SK",
+      "stream": "Disney Plus"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2025-11-05"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2025-11-05"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2025-11-05"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2025-11-05"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2025-11-12"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2025-11-12"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2025-11-19"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2025-11-19"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S01E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2025-12-03"
+          },
+          {
+            "cislo": "S01E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2025-12-03"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 301507,
+    "nazov_en": "Heated Rivalry",
+    "nazov_sk": "Heated Rivalry",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Popis nie je dostupný.",
+    "žáner": "Dráma",
+    "réžia": "Jacob Tierney",
+    "herci": "Connor Storrie, Hudson Williams, François Arnaud, Robbie Graham-Kuntz, Sophie Nélisse, Dylan Walsh, Christina Chang, Kaden Connors, Harrison Browne, Ksenia Daniela Kharlamova",
+    "štúdiá": "Accent Aigu Entertainment",
+    "hodnotenie": 8.5,
+    "pocet_hlasov": 23,
+    "poster": "https://image.tmdb.org/t/p/w500/vG2YAAKxCpxXiFcPqZoYWNbUruR.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/1LQE7WzkgqSJFaKY1zWM6ExPdGm.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/301507",
+    "imdb_id": "tt35495073",
+    "kde_pozriet_sk": {},
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2025-11-28"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2025-11-28"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2025-12-05"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2025-12-12"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2025-12-19"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2025-12-26"
+          }
+        ]
+      }
+    ]
+  }
+]
