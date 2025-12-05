@@ -1,0 +1,6060 @@
+[
+  {
+    "tmdb_id": 66732,
+    "nazov_en": "Stranger Things",
+    "nazov_sk": "Stranger Things",
+    "rok_vydania": "2016",
+    "tip": "Seriál",
+    "obsah": "Will, Mike, Dustin a Lucas sú štyria najlepší priatelia zo školy, ktorí spolu každodenne trávia voľný čas. V jeden večer, keď sa Will vyberie domov, sa po ňom zlahne zem. Kým zúfalá matka spolu so starším synom spočiatku iba prihliadajú na kroky miestneho šerifa, zvyšok partie malých chlapcov podniká pátraciu akciu na vlastnú päsť. Willa však nevedia nikde nájsť a mesto začne odhaľovať svoje záhady, medzi ktoré patria aj tajné experimenty, nadprirodzené sily a jedno malé čudné dievča...",
+    "žáner": "Sci-Fi & Fantasy, Mysteriózny, Akčný a Dobrodružný",
+    "réžia": "Neznámy",
+    "herci": "Millie Bobby Brown, Winona Ryder, David Harbour, Finn Wolfhard, Gaten Matarazzo, Caleb McLaughlin, Noah Schnapp, Sadie Sink, Charlie Heaton, Natalia Dyer",
+    "štúdiá": "21 Laps Entertainment, Monkey Massacre Productions, Upside Down Pictures",
+    "hodnotenie": 8.6,
+    "pocet_hlasov": 19381,
+    "poster": "https://image.tmdb.org/t/p/w500/cVxVGwHce6xnW8UaVUggaPXbmoE.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/66732",
+    "imdb_id": "tt4574334",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/66732-stranger-things/watch?locale=SK",
+      "stream": "Netflix"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Kapitola prvá: Zmiznutie Willa Byersa",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Kapitola druhá: Pošuk na Maple Street",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Kapitola tretia: Šťastné a veselé",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Kapitola štvrtá: Telo",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Kapitola piata: Blcha a akrobat",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Kapitola šiesta: Príšera",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Kapitola siedma: Vaňa",
+            "datum_premiery": "2016-07-15"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Kapitola ôsma: Hore nohami",
+            "datum_premiery": "2016-07-15"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Kapitola prvá: Šialená Max",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Kapitola druhá: Koledu, Ty exot",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Kapitola tretia: Pulec",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Kapitola štvrtá: Mudrc Will",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Kapitola piata: Dig Dug",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Kapitola šiesta: Špeh",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Kapitola siedma: Stratená sestra",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Kapitola ôsma: Ovládač mysle",
+            "datum_premiery": "2017-10-27"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Kapitola deviata: Brána",
+            "datum_premiery": "2017-10-27"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Kapitola prvá: Suzie, počuješ ma?",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Kapitola druhá: Krysy z obchoďáku",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Kapitola tretia: Prípad zmiznutej plavčíčky",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Kapitola štvrtá: Test saunou",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Kapitola piata: Armáda",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Kapitola šiesta: E Pluribus Unum",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Kapitola siedma: Uhryznutie",
+            "datum_premiery": "2019-07-04"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Kapitola ôsma: Bitka pri Starcourte",
+            "datum_premiery": "2019-07-04"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Kapitola prvá: Klub Hellfire",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Kapitola druhá: Vecnova kliatba",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Kapitola tretia: Monštrum a superhrdina",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Kapitola štvrtá: Drahý Billy",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Kapitola piata: Projekt Nina",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Kapitola šiesta: Do hĺbky",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Kapitola siedma: Masaker v laboratóriu",
+            "datum_premiery": "2022-05-27"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Kapitola ôsma: Otecko",
+            "datum_premiery": "2022-07-01"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Kapitola deviata: Hon na Vecnu",
+            "datum_premiery": "2022-07-01"
+          }
+        ]
+      },
+      {
+        "sezona": 5,
+        "nazov": "Séria 5",
+        "epizody": [
+          {
+            "cislo": "S05E01",
+            "nazov": "Kapitola prvá: Prienik",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S05E02",
+            "nazov": "Kapitola druhá: Zmiznutie",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S05E03",
+            "nazov": "Kapitola tretia: Pasca u Turnbowovcoch",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S05E04",
+            "nazov": "Kapitola štvrtá: Čarodej",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S05E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2025-12-25"
+          },
+          {
+            "cislo": "S05E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2025-12-25"
+          },
+          {
+            "cislo": "S05E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2025-12-25"
+          },
+          {
+            "cislo": "S05E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2025-12-31"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 79744,
+    "nazov_en": "The Rookie",
+    "nazov_sk": "The Rookie",
+    "nazov_cz": "Zelenáč",
+    "rok_vydania": "2018",
+    "tip": "Seriál",
+    "obsah": "John Nolan sa rozhodne presťahovať do Los Angeles, kde sa chce stať policajtom. Svoj životný sen si však začal vyplňoval pomerne neskoro, pretože v jeho veku dosahujú policajti svoj vrchol. Teraz sa ocitá medzi nováčikmi, ktorým je o 20 rokov menej. Nachádza sa tak na dlhej ceste, ktorá bude nebezpečná a nepredvídateľná. Príbeh je inšpirovaný skutočnými udalosťami.",
+    "žáner": "Kriminálny, Dráma, Komédia",
+    "réžia": "Neznámy",
+    "herci": "Nathan Fillion, Melissa O'Neil, Eric Winter, Alyssa Diaz, Mekia Cox, Richard T. Jones",
+    "štúdiá": "ABC Studios, Entertainment One, Lionsgate Television, ABC Signature",
+    "hodnotenie": 8.5,
+    "pocet_hlasov": 2779,
+    "poster": "https://image.tmdb.org/t/p/w500/bL1mwXDnH5fCxqc4S2n40hoVyoe.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/2m1Mu0xPj4SikiqkaolTRUcNtWH.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/79744",
+    "imdb_id": "tt7587890",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/79744-the-rookie/watch?locale=SK",
+      "stream": "Disney Plus, Netflix"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2018-10-16"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2018-10-23"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2018-10-30"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2018-11-13"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2018-11-20"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2018-11-27"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2018-12-04"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2018-12-11"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2019-01-08"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2019-01-15"
+          },
+          {
+            "cislo": "S01E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2019-01-22"
+          },
+          {
+            "cislo": "S01E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2019-02-12"
+          },
+          {
+            "cislo": "S01E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2019-02-19"
+          },
+          {
+            "cislo": "S01E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2019-02-26"
+          },
+          {
+            "cislo": "S01E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2019-03-05"
+          },
+          {
+            "cislo": "S01E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2019-03-19"
+          },
+          {
+            "cislo": "S01E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2019-03-26"
+          },
+          {
+            "cislo": "S01E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2019-04-02"
+          },
+          {
+            "cislo": "S01E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2019-04-09"
+          },
+          {
+            "cislo": "S01E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2019-04-16"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2019-09-29"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2019-10-06"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2019-10-13"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2019-10-20"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2019-10-27"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2019-11-03"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2019-11-10"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2019-11-17"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2019-12-01"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2019-12-08"
+          },
+          {
+            "cislo": "S02E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2020-02-23"
+          },
+          {
+            "cislo": "S02E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2020-03-01"
+          },
+          {
+            "cislo": "S02E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2020-03-08"
+          },
+          {
+            "cislo": "S02E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2020-03-15"
+          },
+          {
+            "cislo": "S02E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2020-03-22"
+          },
+          {
+            "cislo": "S02E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2020-04-05"
+          },
+          {
+            "cislo": "S02E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2020-04-12"
+          },
+          {
+            "cislo": "S02E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2020-04-26"
+          },
+          {
+            "cislo": "S02E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2020-05-03"
+          },
+          {
+            "cislo": "S02E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2020-05-10"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2021-01-03"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2021-01-10"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2021-01-17"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2021-01-24"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2021-02-14"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2021-02-21"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2021-02-28"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2021-03-28"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2021-04-04"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2021-04-11"
+          },
+          {
+            "cislo": "S03E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2021-04-18"
+          },
+          {
+            "cislo": "S03E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2021-05-02"
+          },
+          {
+            "cislo": "S03E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2021-05-09"
+          },
+          {
+            "cislo": "S03E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2021-05-16"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2021-09-26"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2021-10-03"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2021-10-10"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2021-10-17"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2021-10-31"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2021-11-07"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2021-11-14"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2021-12-05"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2021-12-12"
+          },
+          {
+            "cislo": "S04E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2022-01-02"
+          },
+          {
+            "cislo": "S04E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2022-01-09"
+          },
+          {
+            "cislo": "S04E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2022-01-23"
+          },
+          {
+            "cislo": "S04E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2022-01-30"
+          },
+          {
+            "cislo": "S04E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2022-02-27"
+          },
+          {
+            "cislo": "S04E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2022-03-06"
+          },
+          {
+            "cislo": "S04E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2022-03-13"
+          },
+          {
+            "cislo": "S04E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2022-04-03"
+          },
+          {
+            "cislo": "S04E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2022-04-10"
+          },
+          {
+            "cislo": "S04E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2022-04-24"
+          },
+          {
+            "cislo": "S04E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2022-05-01"
+          },
+          {
+            "cislo": "S04E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2022-05-08"
+          },
+          {
+            "cislo": "S04E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2022-05-15"
+          }
+        ]
+      },
+      {
+        "sezona": 5,
+        "nazov": "Séria 5",
+        "epizody": [
+          {
+            "cislo": "S05E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2022-09-25"
+          },
+          {
+            "cislo": "S05E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2022-10-02"
+          },
+          {
+            "cislo": "S05E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2022-10-09"
+          },
+          {
+            "cislo": "S05E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2022-10-16"
+          },
+          {
+            "cislo": "S05E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2022-10-23"
+          },
+          {
+            "cislo": "S05E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2022-10-30"
+          },
+          {
+            "cislo": "S05E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2022-11-06"
+          },
+          {
+            "cislo": "S05E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2022-12-04"
+          },
+          {
+            "cislo": "S05E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2022-12-04"
+          },
+          {
+            "cislo": "S05E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2023-01-03"
+          },
+          {
+            "cislo": "S05E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2023-01-10"
+          },
+          {
+            "cislo": "S05E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2023-01-17"
+          },
+          {
+            "cislo": "S05E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2023-01-24"
+          },
+          {
+            "cislo": "S05E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2023-01-31"
+          },
+          {
+            "cislo": "S05E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2023-02-14"
+          },
+          {
+            "cislo": "S05E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2023-02-21"
+          },
+          {
+            "cislo": "S05E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2023-02-28"
+          },
+          {
+            "cislo": "S05E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2023-03-21"
+          },
+          {
+            "cislo": "S05E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2023-03-28"
+          },
+          {
+            "cislo": "S05E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2023-04-18"
+          },
+          {
+            "cislo": "S05E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2023-04-25"
+          },
+          {
+            "cislo": "S05E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2023-05-02"
+          }
+        ]
+      },
+      {
+        "sezona": 6,
+        "nazov": "Séria 6",
+        "epizody": [
+          {
+            "cislo": "S06E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2024-02-20"
+          },
+          {
+            "cislo": "S06E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2024-02-27"
+          },
+          {
+            "cislo": "S06E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2024-03-05"
+          },
+          {
+            "cislo": "S06E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2024-03-26"
+          },
+          {
+            "cislo": "S06E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2024-04-02"
+          },
+          {
+            "cislo": "S06E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2024-04-09"
+          },
+          {
+            "cislo": "S06E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2024-04-30"
+          },
+          {
+            "cislo": "S06E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2024-05-07"
+          },
+          {
+            "cislo": "S06E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2024-05-14"
+          },
+          {
+            "cislo": "S06E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2024-05-21"
+          }
+        ]
+      },
+      {
+        "sezona": 7,
+        "nazov": "Séria 7",
+        "epizody": [
+          {
+            "cislo": "S07E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2025-01-07"
+          },
+          {
+            "cislo": "S07E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2025-01-14"
+          },
+          {
+            "cislo": "S07E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2025-01-21"
+          },
+          {
+            "cislo": "S07E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2025-01-28"
+          },
+          {
+            "cislo": "S07E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2025-02-04"
+          },
+          {
+            "cislo": "S07E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2025-02-11"
+          },
+          {
+            "cislo": "S07E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2025-02-18"
+          },
+          {
+            "cislo": "S07E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2025-02-25"
+          },
+          {
+            "cislo": "S07E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2025-03-11"
+          },
+          {
+            "cislo": "S07E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2025-03-18"
+          },
+          {
+            "cislo": "S07E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2025-03-25"
+          },
+          {
+            "cislo": "S07E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2025-04-01"
+          },
+          {
+            "cislo": "S07E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2025-04-08"
+          },
+          {
+            "cislo": "S07E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2025-04-15"
+          },
+          {
+            "cislo": "S07E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2025-04-22"
+          },
+          {
+            "cislo": "S07E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2025-04-29"
+          },
+          {
+            "cislo": "S07E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2025-05-06"
+          },
+          {
+            "cislo": "S07E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2025-05-13"
+          }
+        ]
+      },
+      {
+        "sezona": 8,
+        "nazov": "Séria 8",
+        "epizody": [
+          {
+            "cislo": "S08E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2026-01-06"
+          },
+          {
+            "cislo": "S08E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2026-01-13"
+          },
+          {
+            "cislo": "S08E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2026-01-20"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1405,
+    "nazov_en": "Dexter",
+    "nazov_sk": "Dexter",
+    "rok_vydania": "2006",
+    "tip": "Seriál",
+    "obsah": "Dexter pracuje ako analytik krvných striekancov a škvŕn na Policajnom oddelení mesta Miami, ale vo svojom voľnom čase je sériový vrah. Jeho adoptívny otec Harry ho naučil zásadu, podľa ktorej môže zabíjať len tých, „ktorí si to zaslúžia“, predovšetkým ostatných vrahov, ktorým sa podarilo vyhnúť tradičnému systému zákonov a nikdy sa nestali ani len podozrivými.",
+    "žáner": "Kriminálny, Dráma, Mysteriózny",
+    "réžia": "Neznámy",
+    "herci": "Michael C. Hall, Jennifer Carpenter, Geoff Pierson, David Zayas, James Remar, Aimee Garcia, Desmond Harrington, C. S. Lee",
+    "štúdiá": "Showtime Networks, John Goldwyn Productions, The Colleton Company, Clyde Phillips Productions, Devilina Productions",
+    "hodnotenie": 8.2,
+    "pocet_hlasov": 5083,
+    "stopaz_min": 60,
+    "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/1405",
+    "imdb_id": "tt0773262",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/1405-dexter/watch?locale=SK",
+      "stream": "Netflix, SkyShowtime"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2006-10-01"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2006-10-08"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2006-10-15"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2006-10-22"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2006-10-29"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2006-11-05"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2006-11-12"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2006-11-19"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2006-11-26"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2006-12-03"
+          },
+          {
+            "cislo": "S01E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2006-12-10"
+          },
+          {
+            "cislo": "S01E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2006-12-17"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2007-09-30"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2007-10-07"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2007-10-14"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2007-10-21"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2007-10-28"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2007-11-04"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2007-11-11"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2007-11-18"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2007-11-25"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2007-12-02"
+          },
+          {
+            "cislo": "S02E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2007-12-09"
+          },
+          {
+            "cislo": "S02E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2007-12-16"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2008-09-28"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2008-10-05"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2008-10-12"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2008-10-19"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2008-10-26"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2008-11-02"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2008-11-09"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2008-11-16"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2008-11-23"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2008-11-30"
+          },
+          {
+            "cislo": "S03E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2008-12-07"
+          },
+          {
+            "cislo": "S03E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2008-12-14"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2009-09-27"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2009-10-04"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2009-10-11"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2009-10-18"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2009-10-25"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2009-11-01"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2009-11-08"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2009-11-15"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2009-11-22"
+          },
+          {
+            "cislo": "S04E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2009-11-29"
+          },
+          {
+            "cislo": "S04E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2009-12-06"
+          },
+          {
+            "cislo": "S04E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2009-12-13"
+          }
+        ]
+      },
+      {
+        "sezona": 5,
+        "nazov": "Séria 5",
+        "epizody": [
+          {
+            "cislo": "S05E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2010-09-26"
+          },
+          {
+            "cislo": "S05E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2010-10-03"
+          },
+          {
+            "cislo": "S05E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2010-10-10"
+          },
+          {
+            "cislo": "S05E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2010-10-17"
+          },
+          {
+            "cislo": "S05E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2010-10-24"
+          },
+          {
+            "cislo": "S05E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2010-10-31"
+          },
+          {
+            "cislo": "S05E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2010-11-07"
+          },
+          {
+            "cislo": "S05E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2010-11-14"
+          },
+          {
+            "cislo": "S05E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2010-11-21"
+          },
+          {
+            "cislo": "S05E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2010-11-28"
+          },
+          {
+            "cislo": "S05E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2010-12-05"
+          },
+          {
+            "cislo": "S05E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2010-12-12"
+          }
+        ]
+      },
+      {
+        "sezona": 6,
+        "nazov": "Séria 6",
+        "epizody": [
+          {
+            "cislo": "S06E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2011-10-02"
+          },
+          {
+            "cislo": "S06E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2011-10-09"
+          },
+          {
+            "cislo": "S06E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2011-10-16"
+          },
+          {
+            "cislo": "S06E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2011-10-23"
+          },
+          {
+            "cislo": "S06E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2011-10-30"
+          },
+          {
+            "cislo": "S06E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2011-11-06"
+          },
+          {
+            "cislo": "S06E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2011-11-13"
+          },
+          {
+            "cislo": "S06E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2011-11-20"
+          },
+          {
+            "cislo": "S06E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2011-11-27"
+          },
+          {
+            "cislo": "S06E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2011-12-04"
+          },
+          {
+            "cislo": "S06E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2011-12-11"
+          },
+          {
+            "cislo": "S06E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2011-12-18"
+          }
+        ]
+      },
+      {
+        "sezona": 7,
+        "nazov": "Séria 7",
+        "epizody": [
+          {
+            "cislo": "S07E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2012-09-30"
+          },
+          {
+            "cislo": "S07E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2012-10-07"
+          },
+          {
+            "cislo": "S07E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2012-10-14"
+          },
+          {
+            "cislo": "S07E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2012-10-21"
+          },
+          {
+            "cislo": "S07E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2012-10-28"
+          },
+          {
+            "cislo": "S07E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2012-11-04"
+          },
+          {
+            "cislo": "S07E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2012-11-11"
+          },
+          {
+            "cislo": "S07E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2012-11-18"
+          },
+          {
+            "cislo": "S07E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2012-11-25"
+          },
+          {
+            "cislo": "S07E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2012-12-02"
+          },
+          {
+            "cislo": "S07E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2012-12-09"
+          },
+          {
+            "cislo": "S07E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2012-12-16"
+          }
+        ]
+      },
+      {
+        "sezona": 8,
+        "nazov": "Séria 8",
+        "epizody": [
+          {
+            "cislo": "S08E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2013-06-30"
+          },
+          {
+            "cislo": "S08E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2013-07-07"
+          },
+          {
+            "cislo": "S08E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2013-07-14"
+          },
+          {
+            "cislo": "S08E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2013-07-21"
+          },
+          {
+            "cislo": "S08E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2013-07-28"
+          },
+          {
+            "cislo": "S08E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2013-08-04"
+          },
+          {
+            "cislo": "S08E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2013-08-11"
+          },
+          {
+            "cislo": "S08E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2013-08-18"
+          },
+          {
+            "cislo": "S08E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2013-08-25"
+          },
+          {
+            "cislo": "S08E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2013-09-08"
+          },
+          {
+            "cislo": "S08E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2013-09-15"
+          },
+          {
+            "cislo": "S08E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2013-09-22"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 34307,
+    "nazov_en": "Shameless",
+    "nazov_sk": "Hriešnici",
+    "nazov_cz": "Hříšníci",
+    "rok_vydania": "2011",
+    "tip": "Seriál",
+    "obsah": "Príbehy súrodencov, ktorých rodičia prakticky opustili a nezostáva im nič iné, než sa skúsiť pretĺcť životom. Hoci si to nechcú priznať, potrebujú pomoc a nájdu ju vďaka Stevovi, ktorý sa zamiloval do Fiony, čo je najstarší zo súrodencov. Rodinný život nie je nudný, či už ide o bláznivé deti, susedov pornohercov alebo otca neotce.",
+    "žáner": "Dráma, Komédia",
+    "réžia": "Neznámy",
+    "herci": "William H. Macy, Jeremy Allen White, Ethan Cutkosky, Shanola Hampton, Steve Howey, Emma Kenney, Christian Isaiah, Cameron Monaghan, Noel Fisher, Kate Miner",
+    "štúdiá": "John Wells Productions, Warner Bros. Television, Showtime Networks",
+    "hodnotenie": 8.2,
+    "pocet_hlasov": 3109,
+    "poster": "https://image.tmdb.org/t/p/w500/ifo31fMWLmyOVpdak9K0kY4jldQ.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/5s9XHTB9SLPdg3mNU6BlSLnZ9Qq.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/34307",
+    "imdb_id": "tt1586680",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/34307-shameless/watch?locale=SK",
+      "stream": "Netflix, Amazon Prime Video, HBO Max"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2011-01-09"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2011-01-16"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2011-01-23"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2011-01-30"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2011-02-06"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2011-02-13"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2011-02-20"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2011-02-27"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2011-03-06"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2011-03-13"
+          },
+          {
+            "cislo": "S01E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2011-03-20"
+          },
+          {
+            "cislo": "S01E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2011-03-27"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2012-01-08"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2012-01-15"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2012-01-22"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2012-01-29"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2012-02-05"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2012-02-12"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2012-02-19"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2012-03-04"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2012-03-11"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2012-03-18"
+          },
+          {
+            "cislo": "S02E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2012-03-25"
+          },
+          {
+            "cislo": "S02E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2012-04-01"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2013-01-13"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2013-01-20"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2013-01-27"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2013-02-10"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2013-02-17"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2013-02-24"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2013-03-03"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2013-03-10"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2013-03-17"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2013-03-24"
+          },
+          {
+            "cislo": "S03E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2013-03-31"
+          },
+          {
+            "cislo": "S03E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2013-04-07"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2014-01-12"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2014-01-19"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2014-01-26"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2014-02-02"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2014-02-09"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2014-02-16"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2014-02-23"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2014-03-09"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2014-03-16"
+          },
+          {
+            "cislo": "S04E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2014-03-23"
+          },
+          {
+            "cislo": "S04E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2014-03-30"
+          },
+          {
+            "cislo": "S04E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2014-04-06"
+          }
+        ]
+      },
+      {
+        "sezona": 5,
+        "nazov": "Séria 5",
+        "epizody": [
+          {
+            "cislo": "S05E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2015-01-11"
+          },
+          {
+            "cislo": "S05E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2015-01-18"
+          },
+          {
+            "cislo": "S05E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2015-01-25"
+          },
+          {
+            "cislo": "S05E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2015-02-01"
+          },
+          {
+            "cislo": "S05E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2015-02-08"
+          },
+          {
+            "cislo": "S05E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2015-02-15"
+          },
+          {
+            "cislo": "S05E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2015-03-01"
+          },
+          {
+            "cislo": "S05E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2015-03-08"
+          },
+          {
+            "cislo": "S05E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2015-03-15"
+          },
+          {
+            "cislo": "S05E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2015-03-22"
+          },
+          {
+            "cislo": "S05E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2015-03-29"
+          },
+          {
+            "cislo": "S05E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2015-04-05"
+          }
+        ]
+      },
+      {
+        "sezona": 6,
+        "nazov": "Séria 6",
+        "epizody": [
+          {
+            "cislo": "S06E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2016-01-10"
+          },
+          {
+            "cislo": "S06E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2016-01-17"
+          },
+          {
+            "cislo": "S06E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2016-01-24"
+          },
+          {
+            "cislo": "S06E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2016-01-31"
+          },
+          {
+            "cislo": "S06E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2016-02-07"
+          },
+          {
+            "cislo": "S06E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2016-02-14"
+          },
+          {
+            "cislo": "S06E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2016-02-21"
+          },
+          {
+            "cislo": "S06E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2016-03-06"
+          },
+          {
+            "cislo": "S06E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2016-03-13"
+          },
+          {
+            "cislo": "S06E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2016-03-20"
+          },
+          {
+            "cislo": "S06E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2016-03-27"
+          },
+          {
+            "cislo": "S06E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2016-04-03"
+          }
+        ]
+      },
+      {
+        "sezona": 7,
+        "nazov": "Séria 7",
+        "epizody": [
+          {
+            "cislo": "S07E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2016-10-02"
+          },
+          {
+            "cislo": "S07E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2016-10-09"
+          },
+          {
+            "cislo": "S07E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2016-10-16"
+          },
+          {
+            "cislo": "S07E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2016-10-23"
+          },
+          {
+            "cislo": "S07E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2016-10-30"
+          },
+          {
+            "cislo": "S07E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2016-11-06"
+          },
+          {
+            "cislo": "S07E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2016-11-13"
+          },
+          {
+            "cislo": "S07E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2016-11-20"
+          },
+          {
+            "cislo": "S07E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2016-11-27"
+          },
+          {
+            "cislo": "S07E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2016-12-04"
+          },
+          {
+            "cislo": "S07E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2016-12-11"
+          },
+          {
+            "cislo": "S07E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2016-12-18"
+          }
+        ]
+      },
+      {
+        "sezona": 8,
+        "nazov": "Séria 8",
+        "epizody": [
+          {
+            "cislo": "S08E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2017-11-05"
+          },
+          {
+            "cislo": "S08E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2017-11-12"
+          },
+          {
+            "cislo": "S08E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2017-11-19"
+          },
+          {
+            "cislo": "S08E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2017-11-26"
+          },
+          {
+            "cislo": "S08E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2017-12-03"
+          },
+          {
+            "cislo": "S08E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2017-12-10"
+          },
+          {
+            "cislo": "S08E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2017-12-17"
+          },
+          {
+            "cislo": "S08E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2017-12-31"
+          },
+          {
+            "cislo": "S08E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2018-01-07"
+          },
+          {
+            "cislo": "S08E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2018-01-14"
+          },
+          {
+            "cislo": "S08E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2018-01-21"
+          },
+          {
+            "cislo": "S08E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2018-01-28"
+          }
+        ]
+      },
+      {
+        "sezona": 9,
+        "nazov": "Séria 9",
+        "epizody": [
+          {
+            "cislo": "S09E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2018-09-09"
+          },
+          {
+            "cislo": "S09E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2018-09-16"
+          },
+          {
+            "cislo": "S09E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2018-09-23"
+          },
+          {
+            "cislo": "S09E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2018-09-30"
+          },
+          {
+            "cislo": "S09E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2018-10-07"
+          },
+          {
+            "cislo": "S09E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2018-10-14"
+          },
+          {
+            "cislo": "S09E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2018-10-21"
+          },
+          {
+            "cislo": "S09E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2019-01-20"
+          },
+          {
+            "cislo": "S09E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2019-01-27"
+          },
+          {
+            "cislo": "S09E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2019-02-10"
+          },
+          {
+            "cislo": "S09E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2019-02-17"
+          },
+          {
+            "cislo": "S09E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2019-02-24"
+          },
+          {
+            "cislo": "S09E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2019-03-03"
+          },
+          {
+            "cislo": "S09E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2019-03-10"
+          }
+        ]
+      },
+      {
+        "sezona": 10,
+        "nazov": "Séria 10",
+        "epizody": [
+          {
+            "cislo": "S10E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2019-11-10"
+          },
+          {
+            "cislo": "S10E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2019-11-17"
+          },
+          {
+            "cislo": "S10E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2019-11-24"
+          },
+          {
+            "cislo": "S10E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2019-12-01"
+          },
+          {
+            "cislo": "S10E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2019-12-08"
+          },
+          {
+            "cislo": "S10E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2019-12-15"
+          },
+          {
+            "cislo": "S10E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2019-12-22"
+          },
+          {
+            "cislo": "S10E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2019-12-29"
+          },
+          {
+            "cislo": "S10E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2020-01-05"
+          },
+          {
+            "cislo": "S10E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2020-01-12"
+          },
+          {
+            "cislo": "S10E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2020-01-19"
+          },
+          {
+            "cislo": "S10E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2020-01-26"
+          }
+        ]
+      },
+      {
+        "sezona": 11,
+        "nazov": "Séria 11",
+        "epizody": [
+          {
+            "cislo": "S11E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2020-12-06"
+          },
+          {
+            "cislo": "S11E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2020-12-13"
+          },
+          {
+            "cislo": "S11E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2020-12-20"
+          },
+          {
+            "cislo": "S11E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2021-01-10"
+          },
+          {
+            "cislo": "S11E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2021-01-31"
+          },
+          {
+            "cislo": "S11E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2021-02-14"
+          },
+          {
+            "cislo": "S11E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2021-03-07"
+          },
+          {
+            "cislo": "S11E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2021-03-14"
+          },
+          {
+            "cislo": "S11E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2021-03-21"
+          },
+          {
+            "cislo": "S11E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2021-03-28"
+          },
+          {
+            "cislo": "S11E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2021-04-04"
+          },
+          {
+            "cislo": "S11E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2021-04-11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 71912,
+    "nazov_en": "The Witcher",
+    "nazov_sk": "Zaklínač",
+    "nazov_cz": "Zaklínač",
+    "rok_vydania": "2019",
+    "tip": "Seriál",
+    "obsah": "Geralt z Rivie je nájomný zaklínač, majster meča s magickými schopnosťami. Geralt žije na okraji spoločnosti, so zápalom bojuje proti desivým netvorom, ktoré ohrozujú ľudí, nie je však chladnokrvný zabijak. Jeho nadprirodzené schopnosti a nemilosrdné skutky vykonávané v mene spravodlivosti však vyvolávajú v ľuďoch strach a odpor napriek tomu, že ich chráni.",
+    "žáner": "Dráma, Akčný a Dobrodružný",
+    "réžia": "Neznámy",
+    "herci": "Liam Hemsworth, Anya Chalotra, Freya Allan, Joey Batey, Eamon Farren, Mimî M. Khayisa, Anna Shaffer, Mahesh Jadu, 张梦儿, Danny Woodburn",
+    "štúdiá": "Sean Daniel Company, Platige Image, Hivemind, Little Schmidt Productions, Platige Films",
+    "hodnotenie": 8.0,
+    "pocet_hlasov": 6406,
+    "poster": "https://image.tmdb.org/t/p/w500/4DIiJ4c7CgsLz5EocV7TZbpQKP4.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/foGkPxpw9h8zln81j63mix5B7m8.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/71912",
+    "imdb_id": "tt5180504",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/71912-the-witcher/watch?locale=SK",
+      "stream": "Netflix"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2019-12-20"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2019-12-20"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2019-12-20"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2019-12-20"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2019-12-20"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2019-12-20"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2019-12-20"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2019-12-20"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2021-12-17"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2021-12-17"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2021-12-17"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2021-12-17"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2021-12-17"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2021-12-17"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2021-12-17"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2021-12-17"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2023-06-29"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2023-06-29"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2023-06-29"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2023-06-29"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2023-06-29"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2023-07-27"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2023-07-27"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2023-07-27"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2025-10-30"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2025-10-30"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2025-10-30"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2025-10-30"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2025-10-30"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2025-10-30"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2025-10-30"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2025-10-30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 46952,
+    "nazov_en": "The Blacklist",
+    "nazov_sk": "Čierny zoznam",
+    "nazov_cz": "Černá listina",
+    "rok_vydania": "2013",
+    "tip": "Seriál",
+    "obsah": "Najhľadanejší kriminálnik sveta Raymond Reddington sa z neznámych dôvodov vzdá do rúk federálov a ponúkne im pomoc. Nie však obyčajnú: je ochotný loviť a chytiť najväčších kriminálnikov. Teda tých, s ktorými doteraz spolupracoval a ochraňoval ich. Jeho jedinou podmienkou je, že bude spolupracovať iba s jedinou, mladou agentkou FBI, i keď s ňou zdanlivo nemá žiadnu spojitosť.",
+    "žáner": "Dráma, Kriminálny, Mysteriózny",
+    "réžia": "Neznámy",
+    "herci": "James Spader, Diego Klattenhoff, Hisham Tawfiq, Anya Banerjee, Harry Lennix",
+    "štúdiá": "Sony Pictures Television, Davis Entertainment, Universal Television",
+    "hodnotenie": 7.6,
+    "pocet_hlasov": 3425,
+    "poster": "https://image.tmdb.org/t/p/w500/4HTfd1PhgFUenJxVuBDNdLmdr0c.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/46952",
+    "imdb_id": "tt2741602",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/46952-the-blacklist/watch?locale=SK",
+      "stream": "Netflix"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2013-09-23"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2013-09-30"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2013-10-07"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2013-10-14"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2013-10-21"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2013-10-28"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2013-11-04"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2013-11-11"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2013-11-25"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2013-12-02"
+          },
+          {
+            "cislo": "S01E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2014-01-13"
+          },
+          {
+            "cislo": "S01E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2014-01-20"
+          },
+          {
+            "cislo": "S01E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2014-01-27"
+          },
+          {
+            "cislo": "S01E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2014-02-24"
+          },
+          {
+            "cislo": "S01E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2014-03-03"
+          },
+          {
+            "cislo": "S01E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2014-03-17"
+          },
+          {
+            "cislo": "S01E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2014-03-24"
+          },
+          {
+            "cislo": "S01E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2014-03-31"
+          },
+          {
+            "cislo": "S01E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2014-04-21"
+          },
+          {
+            "cislo": "S01E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2014-04-28"
+          },
+          {
+            "cislo": "S01E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2014-05-05"
+          },
+          {
+            "cislo": "S01E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2014-05-12"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2014-09-22"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2014-09-29"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2014-10-06"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2014-10-13"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2014-10-20"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2014-10-27"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2014-11-03"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2014-11-10"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2015-02-01"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2015-02-05"
+          },
+          {
+            "cislo": "S02E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2015-02-12"
+          },
+          {
+            "cislo": "S02E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2015-02-19"
+          },
+          {
+            "cislo": "S02E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2015-02-26"
+          },
+          {
+            "cislo": "S02E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2015-03-05"
+          },
+          {
+            "cislo": "S02E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2015-03-12"
+          },
+          {
+            "cislo": "S02E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2015-03-19"
+          },
+          {
+            "cislo": "S02E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2015-03-26"
+          },
+          {
+            "cislo": "S02E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2015-04-02"
+          },
+          {
+            "cislo": "S02E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2015-04-23"
+          },
+          {
+            "cislo": "S02E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2015-04-30"
+          },
+          {
+            "cislo": "S02E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2015-05-07"
+          },
+          {
+            "cislo": "S02E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2015-05-14"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2015-10-01"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2015-10-08"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2015-10-15"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2015-10-22"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2015-10-29"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2015-11-05"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2015-11-12"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2015-11-19"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2016-01-07"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2016-01-14"
+          },
+          {
+            "cislo": "S03E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2016-01-21"
+          },
+          {
+            "cislo": "S03E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2016-01-28"
+          },
+          {
+            "cislo": "S03E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2016-02-04"
+          },
+          {
+            "cislo": "S03E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2016-02-11"
+          },
+          {
+            "cislo": "S03E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2016-02-18"
+          },
+          {
+            "cislo": "S03E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2016-02-25"
+          },
+          {
+            "cislo": "S03E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2016-04-07"
+          },
+          {
+            "cislo": "S03E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2016-04-14"
+          },
+          {
+            "cislo": "S03E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2016-04-21"
+          },
+          {
+            "cislo": "S03E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2016-04-28"
+          },
+          {
+            "cislo": "S03E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2016-05-05"
+          },
+          {
+            "cislo": "S03E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2016-05-12"
+          },
+          {
+            "cislo": "S03E23",
+            "nazov": "Epizóda 23",
+            "datum_premiery": "2016-05-19"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2016-09-22"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2016-09-29"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2016-10-06"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2016-10-13"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2016-10-20"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2016-10-27"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2016-11-03"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2016-11-10"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2017-01-05"
+          },
+          {
+            "cislo": "S04E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2017-01-12"
+          },
+          {
+            "cislo": "S04E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2017-01-19"
+          },
+          {
+            "cislo": "S04E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2017-02-02"
+          },
+          {
+            "cislo": "S04E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2017-02-09"
+          },
+          {
+            "cislo": "S04E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2017-02-16"
+          },
+          {
+            "cislo": "S04E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2017-02-23"
+          },
+          {
+            "cislo": "S04E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2017-04-20"
+          },
+          {
+            "cislo": "S04E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2017-04-20"
+          },
+          {
+            "cislo": "S04E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2017-04-27"
+          },
+          {
+            "cislo": "S04E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2017-05-04"
+          },
+          {
+            "cislo": "S04E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2017-05-11"
+          },
+          {
+            "cislo": "S04E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2017-05-18"
+          },
+          {
+            "cislo": "S04E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2017-05-18"
+          }
+        ]
+      },
+      {
+        "sezona": 5,
+        "nazov": "Séria 5",
+        "epizody": [
+          {
+            "cislo": "S05E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2017-09-27"
+          },
+          {
+            "cislo": "S05E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2017-10-04"
+          },
+          {
+            "cislo": "S05E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2017-10-11"
+          },
+          {
+            "cislo": "S05E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2017-10-18"
+          },
+          {
+            "cislo": "S05E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2017-10-25"
+          },
+          {
+            "cislo": "S05E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2017-11-01"
+          },
+          {
+            "cislo": "S05E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2017-11-08"
+          },
+          {
+            "cislo": "S05E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2017-11-15"
+          },
+          {
+            "cislo": "S05E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2018-01-03"
+          },
+          {
+            "cislo": "S05E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2018-01-10"
+          },
+          {
+            "cislo": "S05E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2018-01-17"
+          },
+          {
+            "cislo": "S05E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2018-01-31"
+          },
+          {
+            "cislo": "S05E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2018-02-07"
+          },
+          {
+            "cislo": "S05E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2018-02-28"
+          },
+          {
+            "cislo": "S05E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2018-03-07"
+          },
+          {
+            "cislo": "S05E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2018-03-14"
+          },
+          {
+            "cislo": "S05E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2018-04-04"
+          },
+          {
+            "cislo": "S05E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2018-04-11"
+          },
+          {
+            "cislo": "S05E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2018-04-25"
+          },
+          {
+            "cislo": "S05E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2018-05-02"
+          },
+          {
+            "cislo": "S05E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2018-05-09"
+          },
+          {
+            "cislo": "S05E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2018-05-16"
+          }
+        ]
+      },
+      {
+        "sezona": 6,
+        "nazov": "Séria 6",
+        "epizody": [
+          {
+            "cislo": "S06E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2019-01-03"
+          },
+          {
+            "cislo": "S06E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2019-01-04"
+          },
+          {
+            "cislo": "S06E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2019-01-11"
+          },
+          {
+            "cislo": "S06E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2019-01-18"
+          },
+          {
+            "cislo": "S06E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2019-02-01"
+          },
+          {
+            "cislo": "S06E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2019-02-08"
+          },
+          {
+            "cislo": "S06E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2019-02-15"
+          },
+          {
+            "cislo": "S06E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2019-02-22"
+          },
+          {
+            "cislo": "S06E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2019-02-22"
+          },
+          {
+            "cislo": "S06E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2019-03-08"
+          },
+          {
+            "cislo": "S06E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2019-03-15"
+          },
+          {
+            "cislo": "S06E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2019-03-22"
+          },
+          {
+            "cislo": "S06E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2019-03-29"
+          },
+          {
+            "cislo": "S06E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2019-03-29"
+          },
+          {
+            "cislo": "S06E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2019-04-05"
+          },
+          {
+            "cislo": "S06E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2019-04-12"
+          },
+          {
+            "cislo": "S06E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2019-04-19"
+          },
+          {
+            "cislo": "S06E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2019-04-26"
+          },
+          {
+            "cislo": "S06E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2019-04-26"
+          },
+          {
+            "cislo": "S06E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2019-05-03"
+          },
+          {
+            "cislo": "S06E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2019-05-10"
+          },
+          {
+            "cislo": "S06E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2019-05-17"
+          }
+        ]
+      },
+      {
+        "sezona": 7,
+        "nazov": "Séria 7",
+        "epizody": [
+          {
+            "cislo": "S07E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2019-10-04"
+          },
+          {
+            "cislo": "S07E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2019-10-11"
+          },
+          {
+            "cislo": "S07E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2019-10-18"
+          },
+          {
+            "cislo": "S07E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2019-10-25"
+          },
+          {
+            "cislo": "S07E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2019-11-01"
+          },
+          {
+            "cislo": "S07E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2019-11-08"
+          },
+          {
+            "cislo": "S07E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2019-11-15"
+          },
+          {
+            "cislo": "S07E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2019-11-22"
+          },
+          {
+            "cislo": "S07E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2019-12-06"
+          },
+          {
+            "cislo": "S07E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2019-12-13"
+          },
+          {
+            "cislo": "S07E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2020-03-20"
+          },
+          {
+            "cislo": "S07E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2020-03-27"
+          },
+          {
+            "cislo": "S07E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2020-04-03"
+          },
+          {
+            "cislo": "S07E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2020-04-10"
+          },
+          {
+            "cislo": "S07E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2020-04-17"
+          },
+          {
+            "cislo": "S07E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2020-04-24"
+          },
+          {
+            "cislo": "S07E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2020-05-01"
+          },
+          {
+            "cislo": "S07E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2020-05-08"
+          },
+          {
+            "cislo": "S07E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2020-05-15"
+          }
+        ]
+      },
+      {
+        "sezona": 8,
+        "nazov": "Séria 8",
+        "epizody": [
+          {
+            "cislo": "S08E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2020-11-13"
+          },
+          {
+            "cislo": "S08E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2020-11-20"
+          },
+          {
+            "cislo": "S08E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2021-01-22"
+          },
+          {
+            "cislo": "S08E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2021-01-29"
+          },
+          {
+            "cislo": "S08E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2021-02-05"
+          },
+          {
+            "cislo": "S08E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2021-02-12"
+          },
+          {
+            "cislo": "S08E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2021-02-19"
+          },
+          {
+            "cislo": "S08E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2021-02-26"
+          },
+          {
+            "cislo": "S08E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2021-03-05"
+          },
+          {
+            "cislo": "S08E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2021-03-12"
+          },
+          {
+            "cislo": "S08E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2021-03-26"
+          },
+          {
+            "cislo": "S08E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2021-04-02"
+          },
+          {
+            "cislo": "S08E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2021-04-16"
+          },
+          {
+            "cislo": "S08E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2021-04-23"
+          },
+          {
+            "cislo": "S08E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2021-04-30"
+          },
+          {
+            "cislo": "S08E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2021-05-07"
+          },
+          {
+            "cislo": "S08E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2021-05-14"
+          },
+          {
+            "cislo": "S08E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2021-05-21"
+          },
+          {
+            "cislo": "S08E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2021-05-28"
+          },
+          {
+            "cislo": "S08E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2021-06-04"
+          },
+          {
+            "cislo": "S08E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2021-06-16"
+          },
+          {
+            "cislo": "S08E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2021-06-23"
+          }
+        ]
+      },
+      {
+        "sezona": 9,
+        "nazov": "Séria 9",
+        "epizody": [
+          {
+            "cislo": "S09E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2021-10-21"
+          },
+          {
+            "cislo": "S09E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2021-10-28"
+          },
+          {
+            "cislo": "S09E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2021-11-04"
+          },
+          {
+            "cislo": "S09E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2021-11-11"
+          },
+          {
+            "cislo": "S09E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2021-11-18"
+          },
+          {
+            "cislo": "S09E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2021-12-09"
+          },
+          {
+            "cislo": "S09E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2022-01-06"
+          },
+          {
+            "cislo": "S09E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2022-01-13"
+          },
+          {
+            "cislo": "S09E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2022-01-20"
+          },
+          {
+            "cislo": "S09E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2022-02-25"
+          },
+          {
+            "cislo": "S09E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2022-03-04"
+          },
+          {
+            "cislo": "S09E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2022-03-18"
+          },
+          {
+            "cislo": "S09E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2022-03-25"
+          },
+          {
+            "cislo": "S09E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2022-04-01"
+          },
+          {
+            "cislo": "S09E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2022-04-08"
+          },
+          {
+            "cislo": "S09E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2022-04-15"
+          },
+          {
+            "cislo": "S09E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2022-04-22"
+          },
+          {
+            "cislo": "S09E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2022-04-29"
+          },
+          {
+            "cislo": "S09E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2022-05-06"
+          },
+          {
+            "cislo": "S09E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2022-05-13"
+          },
+          {
+            "cislo": "S09E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2022-05-20"
+          },
+          {
+            "cislo": "S09E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2022-05-27"
+          }
+        ]
+      },
+      {
+        "sezona": 10,
+        "nazov": "Séria 10",
+        "epizody": [
+          {
+            "cislo": "S10E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2023-02-26"
+          },
+          {
+            "cislo": "S10E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2023-03-05"
+          },
+          {
+            "cislo": "S10E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2023-03-12"
+          },
+          {
+            "cislo": "S10E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2023-03-19"
+          },
+          {
+            "cislo": "S10E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2023-03-26"
+          },
+          {
+            "cislo": "S10E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2023-04-02"
+          },
+          {
+            "cislo": "S10E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2023-04-09"
+          },
+          {
+            "cislo": "S10E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2023-04-16"
+          },
+          {
+            "cislo": "S10E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2023-04-23"
+          },
+          {
+            "cislo": "S10E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2023-04-30"
+          },
+          {
+            "cislo": "S10E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2023-05-07"
+          },
+          {
+            "cislo": "S10E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2023-05-14"
+          },
+          {
+            "cislo": "S10E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2023-05-21"
+          },
+          {
+            "cislo": "S10E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2023-05-28"
+          },
+          {
+            "cislo": "S10E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2023-06-01"
+          },
+          {
+            "cislo": "S10E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2023-06-01"
+          },
+          {
+            "cislo": "S10E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2023-06-08"
+          },
+          {
+            "cislo": "S10E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2023-06-22"
+          },
+          {
+            "cislo": "S10E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2023-06-29"
+          },
+          {
+            "cislo": "S10E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2023-07-06"
+          },
+          {
+            "cislo": "S10E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2023-07-13"
+          },
+          {
+            "cislo": "S10E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2023-07-13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1408,
+    "nazov_en": "House",
+    "nazov_sk": "Dr. House",
+    "nazov_cz": "Dr. House",
+    "rok_vydania": "2004",
+    "tip": "Seriál",
+    "obsah": "Dr. Gregory House má naozaj nezvyčajné spôsoby. K pacientom si dovolí čokoľvek a z toho, čo si o ňom myslia iní ľudia, si veľkú hlavu nerobí. Na druhej strane, tohto nekonvenčného lekára sprevádza vynikajúca povesť. Jeho inštinkt je neomylný a jeho metódy stopercentne účinné. Práve to z neho robí výnimočného lekára. Navyše, v komlikovaných medicínksych prípadoch sa vyslovene vyžíva. Zachraňovať životy je jednoducho jeho životné poslanie.",
+    "žáner": "Dráma, Komédia, Mysteriózny",
+    "réžia": "Neznámy",
+    "herci": "Hugh Laurie, Robert Sean Leonard, Omar Epps, Jesse Spencer, Odette Annable, Peter Jacobson, Charlyne Yi",
+    "štúdiá": "Universal Television, Bad Hat Harry Productions, Heel & Toe Films, Shore Z Productions",
+    "hodnotenie": 8.6,
+    "pocet_hlasov": 7190,
+    "stopaz_min": 44,
+    "poster": "https://image.tmdb.org/t/p/w500/3Cz7ySOQJmqiuTdrc6CY0r65yDI.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/1408",
+    "imdb_id": "tt0412142",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/1408-house/watch?locale=SK",
+      "stream": "Netflix, Amazon Prime Video, SkyShowtime"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Pilot",
+            "datum_premiery": "2004-11-16"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2004-11-23"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2004-11-30"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2004-12-07"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2004-12-14"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2004-12-21"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2004-12-28"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2005-01-25"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2005-02-01"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2005-02-08"
+          },
+          {
+            "cislo": "S01E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2005-02-15"
+          },
+          {
+            "cislo": "S01E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2005-02-22"
+          },
+          {
+            "cislo": "S01E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2005-03-01"
+          },
+          {
+            "cislo": "S01E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2005-03-15"
+          },
+          {
+            "cislo": "S01E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2005-03-22"
+          },
+          {
+            "cislo": "S01E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2005-03-29"
+          },
+          {
+            "cislo": "S01E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2005-04-12"
+          },
+          {
+            "cislo": "S01E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2005-04-19"
+          },
+          {
+            "cislo": "S01E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2005-05-03"
+          },
+          {
+            "cislo": "S01E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2005-05-10"
+          },
+          {
+            "cislo": "S01E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2005-05-17"
+          },
+          {
+            "cislo": "S01E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2005-05-24"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2005-09-13"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2005-09-20"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2005-09-27"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2005-11-01"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2005-11-08"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2005-11-15"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2005-11-22"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2005-11-29"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2005-12-13"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2006-01-10"
+          },
+          {
+            "cislo": "S02E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2006-02-07"
+          },
+          {
+            "cislo": "S02E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2006-02-14"
+          },
+          {
+            "cislo": "S02E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2006-02-20"
+          },
+          {
+            "cislo": "S02E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2006-03-07"
+          },
+          {
+            "cislo": "S02E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2006-03-28"
+          },
+          {
+            "cislo": "S02E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2006-04-04"
+          },
+          {
+            "cislo": "S02E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2006-04-11"
+          },
+          {
+            "cislo": "S02E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2006-04-18"
+          },
+          {
+            "cislo": "S02E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2006-04-25"
+          },
+          {
+            "cislo": "S02E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2006-05-02"
+          },
+          {
+            "cislo": "S02E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2006-05-03"
+          },
+          {
+            "cislo": "S02E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2006-05-09"
+          },
+          {
+            "cislo": "S02E23",
+            "nazov": "Epizóda 23",
+            "datum_premiery": "2006-05-16"
+          },
+          {
+            "cislo": "S02E24",
+            "nazov": "Epizóda 24",
+            "datum_premiery": "2006-05-23"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2006-09-05"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2006-09-12"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2006-09-19"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2006-09-26"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2006-10-31"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2006-11-07"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2006-11-14"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2006-11-21"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2006-11-28"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2006-12-12"
+          },
+          {
+            "cislo": "S03E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2007-01-09"
+          },
+          {
+            "cislo": "S03E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2007-01-30"
+          },
+          {
+            "cislo": "S03E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2007-02-06"
+          },
+          {
+            "cislo": "S03E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2007-02-13"
+          },
+          {
+            "cislo": "S03E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2007-03-06"
+          },
+          {
+            "cislo": "S03E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2007-03-27"
+          },
+          {
+            "cislo": "S03E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2007-04-03"
+          },
+          {
+            "cislo": "S03E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2007-04-10"
+          },
+          {
+            "cislo": "S03E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2007-04-17"
+          },
+          {
+            "cislo": "S03E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2007-04-24"
+          },
+          {
+            "cislo": "S03E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2007-05-01"
+          },
+          {
+            "cislo": "S03E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2007-05-08"
+          },
+          {
+            "cislo": "S03E23",
+            "nazov": "Epizóda 23",
+            "datum_premiery": "2007-05-15"
+          },
+          {
+            "cislo": "S03E24",
+            "nazov": "Epizóda 24",
+            "datum_premiery": "2007-05-29"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2007-09-25"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2007-10-02"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2007-10-09"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2007-10-23"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2007-10-30"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2007-11-06"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2007-11-13"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2007-11-20"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2007-11-27"
+          },
+          {
+            "cislo": "S04E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2008-01-29"
+          },
+          {
+            "cislo": "S04E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2008-02-03"
+          },
+          {
+            "cislo": "S04E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2008-02-05"
+          },
+          {
+            "cislo": "S04E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2008-04-28"
+          },
+          {
+            "cislo": "S04E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2008-05-05"
+          },
+          {
+            "cislo": "S04E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2008-05-12"
+          },
+          {
+            "cislo": "S04E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2008-05-19"
+          }
+        ]
+      },
+      {
+        "sezona": 5,
+        "nazov": "Séria 5",
+        "epizody": [
+          {
+            "cislo": "S05E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2008-09-16"
+          },
+          {
+            "cislo": "S05E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2008-09-23"
+          },
+          {
+            "cislo": "S05E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2008-09-30"
+          },
+          {
+            "cislo": "S05E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2008-10-14"
+          },
+          {
+            "cislo": "S05E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2008-10-21"
+          },
+          {
+            "cislo": "S05E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2008-10-28"
+          },
+          {
+            "cislo": "S05E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2008-11-11"
+          },
+          {
+            "cislo": "S05E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2008-11-18"
+          },
+          {
+            "cislo": "S05E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2008-11-25"
+          },
+          {
+            "cislo": "S05E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2008-12-02"
+          },
+          {
+            "cislo": "S05E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2008-12-09"
+          },
+          {
+            "cislo": "S05E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2009-01-19"
+          },
+          {
+            "cislo": "S05E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2009-01-26"
+          },
+          {
+            "cislo": "S05E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2009-02-02"
+          },
+          {
+            "cislo": "S05E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2009-02-16"
+          },
+          {
+            "cislo": "S05E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2009-02-23"
+          },
+          {
+            "cislo": "S05E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2009-03-09"
+          },
+          {
+            "cislo": "S05E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2009-03-16"
+          },
+          {
+            "cislo": "S05E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2009-03-30"
+          },
+          {
+            "cislo": "S05E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2009-04-06"
+          },
+          {
+            "cislo": "S05E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2009-04-13"
+          },
+          {
+            "cislo": "S05E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2009-04-27"
+          },
+          {
+            "cislo": "S05E23",
+            "nazov": "Epizóda 23",
+            "datum_premiery": "2009-05-04"
+          },
+          {
+            "cislo": "S05E24",
+            "nazov": "Epizóda 24",
+            "datum_premiery": "2009-05-11"
+          }
+        ]
+      },
+      {
+        "sezona": 6,
+        "nazov": "Séria 6",
+        "epizody": [
+          {
+            "cislo": "S06E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2009-09-21"
+          },
+          {
+            "cislo": "S06E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2009-09-28"
+          },
+          {
+            "cislo": "S06E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2009-10-05"
+          },
+          {
+            "cislo": "S06E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2009-10-12"
+          },
+          {
+            "cislo": "S06E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2009-10-19"
+          },
+          {
+            "cislo": "S06E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2009-11-09"
+          },
+          {
+            "cislo": "S06E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2009-11-16"
+          },
+          {
+            "cislo": "S06E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2009-11-23"
+          },
+          {
+            "cislo": "S06E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2009-11-30"
+          },
+          {
+            "cislo": "S06E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2010-01-11"
+          },
+          {
+            "cislo": "S06E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2010-01-25"
+          },
+          {
+            "cislo": "S06E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2010-02-01"
+          },
+          {
+            "cislo": "S06E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2010-02-08"
+          },
+          {
+            "cislo": "S06E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2010-03-08"
+          },
+          {
+            "cislo": "S06E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2010-03-15"
+          },
+          {
+            "cislo": "S06E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2010-04-12"
+          },
+          {
+            "cislo": "S06E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2010-04-19"
+          },
+          {
+            "cislo": "S06E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2010-04-26"
+          },
+          {
+            "cislo": "S06E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2010-05-03"
+          },
+          {
+            "cislo": "S06E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2010-05-10"
+          },
+          {
+            "cislo": "S06E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2010-05-17"
+          }
+        ]
+      },
+      {
+        "sezona": 7,
+        "nazov": "7 séria",
+        "epizody": [
+          {
+            "cislo": "S07E01",
+            "nazov": "Čo teraz? ",
+            "datum_premiery": "2010-09-20"
+          },
+          {
+            "cislo": "S07E02",
+            "nazov": "Sebectvo ",
+            "datum_premiery": "2010-09-27"
+          },
+          {
+            "cislo": "S07E03",
+            "nazov": "Nepísaná dohoda ",
+            "datum_premiery": "2010-10-04"
+          },
+          {
+            "cislo": "S07E04",
+            "nazov": "Masážna terapia ",
+            "datum_premiery": "2010-10-11"
+          },
+          {
+            "cislo": "S07E05",
+            "nazov": "Neplánované rodičovstvo ",
+            "datum_premiery": "2010-10-18"
+          },
+          {
+            "cislo": "S07E06",
+            "nazov": "Politická objednávka ",
+            "datum_premiery": "2010-11-08"
+          },
+          {
+            "cislo": "S07E07",
+            "nazov": "Nie sú kiahne ako kiahne ",
+            "datum_premiery": "2010-11-15"
+          },
+          {
+            "cislo": "S07E08",
+            "nazov": "Drobné obete ",
+            "datum_premiery": "2010-11-22"
+          },
+          {
+            "cislo": "S07E09",
+            "nazov": "Väčší ako život ",
+            "datum_premiery": "2011-01-17"
+          },
+          {
+            "cislo": "S07E10",
+            "nazov": "Cukor alebo bič ",
+            "datum_premiery": "2011-01-24"
+          },
+          {
+            "cislo": "S07E11",
+            "nazov": "Rodinná prax ",
+            "datum_premiery": "2011-02-07"
+          },
+          {
+            "cislo": "S07E12",
+            "nazov": "Pamätaj si to ",
+            "datum_premiery": "2011-02-14"
+          },
+          {
+            "cislo": "S07E13",
+            "nazov": "Dva príbehy",
+            "datum_premiery": "2011-02-21"
+          },
+          {
+            "cislo": "S07E14",
+            "nazov": "Následky recesie ",
+            "datum_premiery": "2011-02-28"
+          },
+          {
+            "cislo": "S07E15",
+            "nazov": "Črepiny ",
+            "datum_premiery": "2011-03-07"
+          },
+          {
+            "cislo": "S07E16",
+            "nazov": "Voľný pád ",
+            "datum_premiery": "2011-03-14"
+          },
+          {
+            "cislo": "S07E17",
+            "nazov": "Druhá šanca",
+            "datum_premiery": "2011-03-21"
+          },
+          {
+            "cislo": "S07E18",
+            "nazov": "Byt",
+            "datum_premiery": "2011-04-11"
+          },
+          {
+            "cislo": "S07E19",
+            "nazov": "Posledné pokušenie ",
+            "datum_premiery": "2011-04-18"
+          },
+          {
+            "cislo": "S07E20",
+            "nazov": "Zmeny ",
+            "datum_premiery": "2011-05-02"
+          },
+          {
+            "cislo": "S07E21",
+            "nazov": "Náprava ",
+            "datum_premiery": "2011-05-09"
+          },
+          {
+            "cislo": "S07E22",
+            "nazov": "Nadčasy ",
+            "datum_premiery": "2011-05-16"
+          },
+          {
+            "cislo": "S07E23",
+            "nazov": "Ísť ďalej",
+            "datum_premiery": "2011-05-23"
+          }
+        ]
+      },
+      {
+        "sezona": 8,
+        "nazov": "Séria 8",
+        "epizody": [
+          {
+            "cislo": "S08E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2011-10-03"
+          },
+          {
+            "cislo": "S08E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2011-10-10"
+          },
+          {
+            "cislo": "S08E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2011-10-17"
+          },
+          {
+            "cislo": "S08E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2011-10-31"
+          },
+          {
+            "cislo": "S08E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2011-11-07"
+          },
+          {
+            "cislo": "S08E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2011-11-14"
+          },
+          {
+            "cislo": "S08E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2011-11-21"
+          },
+          {
+            "cislo": "S08E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2011-11-28"
+          },
+          {
+            "cislo": "S08E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2012-01-23"
+          },
+          {
+            "cislo": "S08E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2012-01-30"
+          },
+          {
+            "cislo": "S08E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2012-02-06"
+          },
+          {
+            "cislo": "S08E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2012-02-13"
+          },
+          {
+            "cislo": "S08E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2012-02-20"
+          },
+          {
+            "cislo": "S08E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2012-03-19"
+          },
+          {
+            "cislo": "S08E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2012-04-02"
+          },
+          {
+            "cislo": "S08E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2012-04-09"
+          },
+          {
+            "cislo": "S08E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2012-04-16"
+          },
+          {
+            "cislo": "S08E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2012-04-23"
+          },
+          {
+            "cislo": "S08E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2012-04-30"
+          },
+          {
+            "cislo": "S08E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2012-05-07"
+          },
+          {
+            "cislo": "S08E21",
+            "nazov": "Epizóda 21",
+            "datum_premiery": "2012-05-14"
+          },
+          {
+            "cislo": "S08E22",
+            "nazov": "Epizóda 22",
+            "datum_premiery": "2012-05-21"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1396,
+    "nazov_en": "Breaking Bad",
+    "nazov_sk": "Perníkový tatko",
+    "nazov_cz": "Perníkový táta",
+    "rok_vydania": "2008",
+    "tip": "Seriál",
+    "obsah": "Stredoškolskému učiteľovi chémie je diagnostikovaná rakovina a tak sa rozhodne pred svojou smrťou zaopatriť výrobou metam­fetamínu svoju rodinu. Seriál vyniká úplne famóznou premenou hlavnej postavy z obyčajného človeka na kľúčovú postavu drogového obchodu a skutočného bossa.",
+    "žáner": "Dráma, Kriminálny",
+    "réžia": "Neznámy",
+    "herci": "Bryan Cranston, Aaron Paul, Anna Gunnová, RJ Mitte, Dean Norris, Betsy Brandt, Bob Odenkirk, Jonathan Banks",
+    "štúdiá": "Sony Pictures Television, High Bridge Productions, Gran Via Productions",
+    "hodnotenie": 8.9,
+    "pocet_hlasov": 16615,
+    "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/tsRy63Mu5cu8etL1X7ZLyf7UP1M.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/1396",
+    "imdb_id": "tt0903747",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/1396-breaking-bad/watch?locale=SK",
+      "stream": "Netflix"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2008-01-20"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2008-01-27"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2008-02-10"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2008-02-17"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2008-02-24"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2008-03-02"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2008-03-09"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2009-03-08"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2009-03-15"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2009-03-22"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2009-03-29"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2009-04-05"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2009-04-12"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2009-04-19"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2009-04-26"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2009-05-03"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2009-05-10"
+          },
+          {
+            "cislo": "S02E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2009-05-17"
+          },
+          {
+            "cislo": "S02E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2009-05-24"
+          },
+          {
+            "cislo": "S02E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2009-05-31"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2010-03-21"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2010-03-28"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2010-04-04"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2010-04-11"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2010-04-18"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2010-04-25"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2010-05-02"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2010-05-09"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2010-05-16"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2010-05-23"
+          },
+          {
+            "cislo": "S03E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2010-05-30"
+          },
+          {
+            "cislo": "S03E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2010-06-06"
+          },
+          {
+            "cislo": "S03E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2010-06-13"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2011-07-17"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2011-07-24"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2011-07-31"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2011-08-07"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2011-08-14"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2011-08-21"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2011-08-28"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2011-09-04"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2011-09-11"
+          },
+          {
+            "cislo": "S04E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2011-09-18"
+          },
+          {
+            "cislo": "S04E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2011-09-25"
+          },
+          {
+            "cislo": "S04E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2011-10-02"
+          },
+          {
+            "cislo": "S04E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2011-10-09"
+          }
+        ]
+      },
+      {
+        "sezona": 5,
+        "nazov": "Séria 5",
+        "epizody": [
+          {
+            "cislo": "S05E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2012-07-15"
+          },
+          {
+            "cislo": "S05E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2012-07-22"
+          },
+          {
+            "cislo": "S05E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2012-07-29"
+          },
+          {
+            "cislo": "S05E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2012-08-05"
+          },
+          {
+            "cislo": "S05E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2012-08-12"
+          },
+          {
+            "cislo": "S05E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2012-08-19"
+          },
+          {
+            "cislo": "S05E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2012-08-26"
+          },
+          {
+            "cislo": "S05E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2012-09-02"
+          },
+          {
+            "cislo": "S05E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2013-08-11"
+          },
+          {
+            "cislo": "S05E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2013-08-18"
+          },
+          {
+            "cislo": "S05E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2013-08-25"
+          },
+          {
+            "cislo": "S05E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2013-09-01"
+          },
+          {
+            "cislo": "S05E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2013-09-08"
+          },
+          {
+            "cislo": "S05E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2013-09-15"
+          },
+          {
+            "cislo": "S05E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2013-09-22"
+          },
+          {
+            "cislo": "S05E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2013-09-29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 44217,
+    "nazov_en": "Vikings",
+    "nazov_sk": "Vikingovia",
+    "nazov_cz": "Vikingové",
+    "rok_vydania": "2013",
+    "tip": "Seriál",
+    "obsah": "Sága o rode Ragnara Lothbroka, najväčšieho hrdinu svojej doby, ktorý povstal, aby sa stal zjednotiteľom a prvým kráľom všetkých Vikingov. Príbeh jeho rodiny a bratov - spolubojovníkov sa začína na úsvite slávnej éry a vrcholí vo chvíli, keď sa Ragnarovi podarí zjednotiť všetky kmene krutých, násilných a barbarských Vikingov, aby sa stal ich kráľom. Ragnar nie je iba neohrozeným bojovníkom, ale zosobňuje aj severské tradície, ktoré spočívajú v úplnej oddanosti bohom. Podľa legendy totiž Ragnar nie je nikto iný, než priamy potomok Odina, vládcu všetkých bohov, boha vojny a všetkých bojovníkov.",
+    "žáner": "Akčný a Dobrodružný, Dráma, Vojnový a Politický",
+    "réžia": "Neznámy",
+    "herci": "Alex Høgh Andersen, Jordan Patrick Smith, Marco Ilsø, Peter Franzén, Georgia Hirst, Данила Козловский",
+    "štúdiá": "Shaw Media, World 2000 Entertainment, Take 5 Productions",
+    "hodnotenie": 8.1,
+    "pocet_hlasov": 7392,
+    "poster": "https://image.tmdb.org/t/p/w500/bQLrHIRNEkE3PdIWQrZHynQZazu.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/lHe8iwM4Cdm6RSEiara4PN8ZcBd.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/44217",
+    "imdb_id": "tt2306299",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/44217-vikings/watch?locale=SK",
+      "stream": "Netflix"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2013-03-03"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2013-03-10"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2013-03-17"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2013-03-24"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2013-03-31"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2013-04-07"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2013-04-14"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2013-04-21"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2013-04-28"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2014-02-27"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2014-03-06"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2014-03-13"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2014-03-20"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2014-03-27"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2014-04-03"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2014-04-10"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2014-04-17"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2014-04-24"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2014-05-01"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2015-02-19"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2015-02-26"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2015-03-05"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2015-03-12"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2015-03-19"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2015-03-26"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2015-04-02"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2015-04-09"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2015-04-16"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2015-04-23"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2016-02-18"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2016-02-25"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2016-03-03"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2016-03-10"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2016-03-17"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2016-03-24"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2016-03-31"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2016-04-07"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2016-04-14"
+          },
+          {
+            "cislo": "S04E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2016-04-21"
+          },
+          {
+            "cislo": "S04E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2016-11-30"
+          },
+          {
+            "cislo": "S04E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2016-12-07"
+          },
+          {
+            "cislo": "S04E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2016-12-14"
+          },
+          {
+            "cislo": "S04E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2016-12-21"
+          },
+          {
+            "cislo": "S04E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2016-12-28"
+          },
+          {
+            "cislo": "S04E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2017-01-04"
+          },
+          {
+            "cislo": "S04E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2017-01-11"
+          },
+          {
+            "cislo": "S04E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2017-01-18"
+          },
+          {
+            "cislo": "S04E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2017-01-25"
+          },
+          {
+            "cislo": "S04E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2017-02-01"
+          }
+        ]
+      },
+      {
+        "sezona": 5,
+        "nazov": "Séria 5",
+        "epizody": [
+          {
+            "cislo": "S05E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2017-11-29"
+          },
+          {
+            "cislo": "S05E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2017-11-29"
+          },
+          {
+            "cislo": "S05E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2017-12-06"
+          },
+          {
+            "cislo": "S05E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2017-12-13"
+          },
+          {
+            "cislo": "S05E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2017-12-20"
+          },
+          {
+            "cislo": "S05E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2017-12-27"
+          },
+          {
+            "cislo": "S05E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2018-01-03"
+          },
+          {
+            "cislo": "S05E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2018-01-10"
+          },
+          {
+            "cislo": "S05E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2018-01-17"
+          },
+          {
+            "cislo": "S05E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2018-01-24"
+          },
+          {
+            "cislo": "S05E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2018-11-28"
+          },
+          {
+            "cislo": "S05E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2018-12-05"
+          },
+          {
+            "cislo": "S05E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2018-12-12"
+          },
+          {
+            "cislo": "S05E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2018-12-19"
+          },
+          {
+            "cislo": "S05E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2018-12-26"
+          },
+          {
+            "cislo": "S05E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2019-01-02"
+          },
+          {
+            "cislo": "S05E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2019-01-09"
+          },
+          {
+            "cislo": "S05E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2019-01-16"
+          },
+          {
+            "cislo": "S05E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2019-01-23"
+          },
+          {
+            "cislo": "S05E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2019-01-30"
+          }
+        ]
+      },
+      {
+        "sezona": 6,
+        "nazov": "Séria 6",
+        "epizody": [
+          {
+            "cislo": "S06E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2019-12-04"
+          },
+          {
+            "cislo": "S06E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2019-12-04"
+          },
+          {
+            "cislo": "S06E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2019-12-11"
+          },
+          {
+            "cislo": "S06E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2019-12-18"
+          },
+          {
+            "cislo": "S06E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2020-01-01"
+          },
+          {
+            "cislo": "S06E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2020-01-08"
+          },
+          {
+            "cislo": "S06E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2020-01-15"
+          },
+          {
+            "cislo": "S06E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2020-01-22"
+          },
+          {
+            "cislo": "S06E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2020-01-29"
+          },
+          {
+            "cislo": "S06E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2020-02-05"
+          },
+          {
+            "cislo": "S06E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2020-12-30"
+          },
+          {
+            "cislo": "S06E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2020-12-30"
+          },
+          {
+            "cislo": "S06E13",
+            "nazov": "Epizóda 13",
+            "datum_premiery": "2020-12-30"
+          },
+          {
+            "cislo": "S06E14",
+            "nazov": "Epizóda 14",
+            "datum_premiery": "2020-12-30"
+          },
+          {
+            "cislo": "S06E15",
+            "nazov": "Epizóda 15",
+            "datum_premiery": "2020-12-30"
+          },
+          {
+            "cislo": "S06E16",
+            "nazov": "Epizóda 16",
+            "datum_premiery": "2020-12-30"
+          },
+          {
+            "cislo": "S06E17",
+            "nazov": "Epizóda 17",
+            "datum_premiery": "2020-12-30"
+          },
+          {
+            "cislo": "S06E18",
+            "nazov": "Epizóda 18",
+            "datum_premiery": "2020-12-30"
+          },
+          {
+            "cislo": "S06E19",
+            "nazov": "Epizóda 19",
+            "datum_premiery": "2020-12-30"
+          },
+          {
+            "cislo": "S06E20",
+            "nazov": "Epizóda 20",
+            "datum_premiery": "2020-12-30"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 1407,
+    "nazov_en": "Homeland",
+    "nazov_sk": "Homeland: Zradca",
+    "nazov_cz": "Ve jménu vlasti",
+    "rok_vydania": "2011",
+    "tip": "Seriál",
+    "obsah": "Seržant americkej námornej pechoty Nicholas Brody sa po ôsmich rokoch vracia z irackého zajatia. Agentka CIA Carrie Mathisonová je presvedčená, že k Brodyho oslobodeniu viedli podozrivé udalosti. Myslí si, že za celým plánom zrejme stojí Al-kaida a oslavovaný miláčik národa Brody by v skutočnosti mohol byť špiónom, nastrčeným do citlivých miest americkej politiky s cieľom vykonať teroristický útok. Dielo tvorcov Howarda Gordona a Alexa Gans vzniklo podľa izraelskej predlohy Hatufim (Unesení).",
+    "žáner": "Dráma, Vojnový a Politický, Kriminálny",
+    "réžia": "Neznámy",
+    "herci": "Claire Danes, Mandy Patinkin, Maury Sterling, Numan Acar, Nimrat Kaur, Linus Roache, Costa Ronin",
+    "štúdiá": "Showtime Networks, Teakwood Lane Productions, Cherry Pie Productions, Keshet Broadcasting, Fox 21, Fox 21 Television Studios, Keshet International",
+    "hodnotenie": 7.6,
+    "pocet_hlasov": 2419,
+    "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/391ixi0wVbFtFLQnOy8ZncWv2io.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/1407",
+    "imdb_id": "tt1796960",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/1407-homeland/watch?locale=SK",
+      "stream": "Disney Plus, Netflix"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2011-10-02"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2011-10-09"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2011-10-16"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2011-10-23"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2011-10-30"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2011-11-06"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2011-11-13"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2011-11-20"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2011-11-27"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2011-12-04"
+          },
+          {
+            "cislo": "S01E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2011-12-11"
+          },
+          {
+            "cislo": "S01E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2011-12-18"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2012-09-30"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2012-10-07"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2012-10-14"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2012-10-21"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2012-10-28"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2012-11-04"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2012-11-11"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2012-11-18"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2012-11-25"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2012-12-02"
+          },
+          {
+            "cislo": "S02E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2012-12-09"
+          },
+          {
+            "cislo": "S02E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2012-12-16"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2013-09-29"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2013-10-06"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2013-10-13"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2013-10-20"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2013-10-27"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2013-11-03"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2013-11-10"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2013-11-17"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2013-11-24"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2013-12-01"
+          },
+          {
+            "cislo": "S03E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2013-12-08"
+          },
+          {
+            "cislo": "S03E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2013-12-15"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2014-10-05"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2014-10-05"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2014-10-12"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2014-10-19"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2014-10-26"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2014-11-02"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2014-11-09"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2014-11-16"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2014-11-23"
+          },
+          {
+            "cislo": "S04E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2014-12-07"
+          },
+          {
+            "cislo": "S04E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2014-12-14"
+          },
+          {
+            "cislo": "S04E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2014-12-21"
+          }
+        ]
+      },
+      {
+        "sezona": 5,
+        "nazov": "Séria 5",
+        "epizody": [
+          {
+            "cislo": "S05E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2015-10-04"
+          },
+          {
+            "cislo": "S05E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2015-10-11"
+          },
+          {
+            "cislo": "S05E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2015-10-18"
+          },
+          {
+            "cislo": "S05E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2015-10-25"
+          },
+          {
+            "cislo": "S05E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2015-11-01"
+          },
+          {
+            "cislo": "S05E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2015-11-08"
+          },
+          {
+            "cislo": "S05E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2015-11-15"
+          },
+          {
+            "cislo": "S05E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2015-11-22"
+          },
+          {
+            "cislo": "S05E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2015-11-29"
+          },
+          {
+            "cislo": "S05E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2015-12-06"
+          },
+          {
+            "cislo": "S05E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2015-12-13"
+          },
+          {
+            "cislo": "S05E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2015-12-20"
+          }
+        ]
+      },
+      {
+        "sezona": 6,
+        "nazov": "Séria 6",
+        "epizody": [
+          {
+            "cislo": "S06E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2017-01-15"
+          },
+          {
+            "cislo": "S06E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2017-01-22"
+          },
+          {
+            "cislo": "S06E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2017-01-29"
+          },
+          {
+            "cislo": "S06E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2017-02-12"
+          },
+          {
+            "cislo": "S06E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2017-02-19"
+          },
+          {
+            "cislo": "S06E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2017-02-26"
+          },
+          {
+            "cislo": "S06E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2017-03-05"
+          },
+          {
+            "cislo": "S06E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2017-03-12"
+          },
+          {
+            "cislo": "S06E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2017-03-19"
+          },
+          {
+            "cislo": "S06E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2017-03-26"
+          },
+          {
+            "cislo": "S06E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2017-04-02"
+          },
+          {
+            "cislo": "S06E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2017-04-09"
+          }
+        ]
+      },
+      {
+        "sezona": 7,
+        "nazov": "Séria 7",
+        "epizody": [
+          {
+            "cislo": "S07E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2018-02-11"
+          },
+          {
+            "cislo": "S07E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2018-02-18"
+          },
+          {
+            "cislo": "S07E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2018-02-25"
+          },
+          {
+            "cislo": "S07E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2018-03-04"
+          },
+          {
+            "cislo": "S07E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2018-03-11"
+          },
+          {
+            "cislo": "S07E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2018-03-18"
+          },
+          {
+            "cislo": "S07E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2018-03-25"
+          },
+          {
+            "cislo": "S07E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2018-04-01"
+          },
+          {
+            "cislo": "S07E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2018-04-08"
+          },
+          {
+            "cislo": "S07E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2018-04-15"
+          },
+          {
+            "cislo": "S07E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2018-04-22"
+          },
+          {
+            "cislo": "S07E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2018-04-29"
+          }
+        ]
+      },
+      {
+        "sezona": 8,
+        "nazov": "Séria 8",
+        "epizody": [
+          {
+            "cislo": "S08E01",
+            "nazov": "Epizóda 1",
+            "datum_premiery": "2020-02-09"
+          },
+          {
+            "cislo": "S08E02",
+            "nazov": "Epizóda 2",
+            "datum_premiery": "2020-02-16"
+          },
+          {
+            "cislo": "S08E03",
+            "nazov": "Epizóda 3",
+            "datum_premiery": "2020-02-23"
+          },
+          {
+            "cislo": "S08E04",
+            "nazov": "Epizóda 4",
+            "datum_premiery": "2020-03-01"
+          },
+          {
+            "cislo": "S08E05",
+            "nazov": "Epizóda 5",
+            "datum_premiery": "2020-03-08"
+          },
+          {
+            "cislo": "S08E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2020-03-15"
+          },
+          {
+            "cislo": "S08E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2020-03-22"
+          },
+          {
+            "cislo": "S08E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2020-03-29"
+          },
+          {
+            "cislo": "S08E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2020-04-05"
+          },
+          {
+            "cislo": "S08E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2020-04-12"
+          },
+          {
+            "cislo": "S08E11",
+            "nazov": "Epizóda 11",
+            "datum_premiery": "2020-04-19"
+          },
+          {
+            "cislo": "S08E12",
+            "nazov": "Epizóda 12",
+            "datum_premiery": "2020-04-26"
+          }
+        ]
+      }
+    ]
+  }
+]
