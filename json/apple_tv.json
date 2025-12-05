@@ -1,0 +1,2346 @@
+[
+  {
+    "tmdb_id": 225171,
+    "nazov_en": "Pluribus",
+    "nazov_sk": "Pluribus",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Najutrápenejší človek na Zemi musí zachrániť svet pred šťastím.",
+    "žáner": "Dráma, Sci-Fi & Fantasy",
+    "réžia": "Neznámy",
+    "herci": "Rhea Seehorn, Karolina Wydra, Carlos-Manuel Vesga",
+    "štúdiá": "Sony Pictures Television, High Bridge Productions, Bristol Circle Entertainment",
+    "hodnotenie": 8.0,
+    "pocet_hlasov": 156,
+    "poster": "https://image.tmdb.org/t/p/w500/nrM2xFUfKJJEmZzd5d7kohT2G0C.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/8Y6A0bjCi1ZVAYQzf0LlEmckv5O.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/225171",
+    "imdb_id": "tt22202452",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/225171-pluribus/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "My sme my",
+            "datum_premiery": "2025-11-06"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Pirátka",
+            "datum_premiery": "2025-11-06"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Granát",
+            "datum_premiery": "2025-11-13"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Prosíme, Carol",
+            "datum_premiery": "2025-11-20"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Pili mlieko",
+            "datum_premiery": "2025-11-25"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Epizóda 6",
+            "datum_premiery": "2025-12-04"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2025-12-11"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2025-12-18"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2025-12-25"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 221079,
+    "nazov_en": "The Last Frontier",
+    "nazov_sk": "Posledná hranica",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Transportné lietadlo plné väzňov sa zrúti v odľahlej divočine Aljašky a utečú z neho desiatky nebezpečných zajatcov. Osamelý policajt musí ochrániť mesto, ktorému prisľúbil, že ho udrží v bezpečí.",
+    "žáner": "Kriminálny, Dráma",
+    "réžia": "Neznámy",
+    "herci": "Jason Clarke, Dominic Cooper, Haley Bennett, Simone Kessell, Dallas Goldtooth, Tait Blum, Alfre Woodard",
+    "štúdiá": "Apple Studios, Pickpocket Entertainment",
+    "hodnotenie": 7.4,
+    "pocet_hlasov": 92,
+    "poster": "https://image.tmdb.org/t/p/w500/Af92Di1qZFLTY6tKezVynMZChYz.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/u8bpEqCRWLzwe6Qs3WYabA0r6pO.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/221079",
+    "imdb_id": "tt26862142",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/221079-the-last-frontier/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Blue Skies",
+            "datum_premiery": "2025-10-09"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Wind of Change",
+            "datum_premiery": "2025-10-09"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Country as F**k",
+            "datum_premiery": "2025-10-16"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "American Dream",
+            "datum_premiery": "2025-10-23"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Arnaq",
+            "datum_premiery": "2025-10-30"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "The Devil Wears a Suit and Tie",
+            "datum_premiery": "2025-11-06"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Change of Time",
+            "datum_premiery": "2025-11-13"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "L’air Perdu",
+            "datum_premiery": "2025-11-20"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Converge",
+            "datum_premiery": "2025-11-25"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2025-12-04"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 95480,
+    "nazov_en": "Slow Horses",
+    "nazov_sk": "Slow Horses",
+    "rok_vydania": "2022",
+    "tip": "Seriál",
+    "obsah": "Táto dôvtipná špionážna dráma sleduje nefunkčný tím agentov MI5 a ich nepríjemného šéfa, známeho Jacksona Lamba, ktorí sa pohybujú v podfukoch špionážneho sveta, aby ochránili Anglicko pred zlovestnými silami.",
+    "žáner": "Kriminálny, Dráma, Komédia",
+    "réžia": "Neznámy",
+    "herci": "Gary Oldman, Jack Lowden, Kristin Scott Thomas, Saskia Reeves, Christopher Chung, Aimee-Ffion Edwards",
+    "štúdiá": "See-Saw Films, Flying Studio Pictures, Sony Pictures Television",
+    "hodnotenie": 8.0,
+    "pocet_hlasov": 700,
+    "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/bDfboQUb45Cv9MYyVBDZw8M8xSM.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/95480",
+    "imdb_id": "tt5875444",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/95480-slow-horses/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Zlyhanie je nákazlivé",
+            "datum_premiery": "2022-04-01"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Pracovný pohárik",
+            "datum_premiery": "2022-04-01"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Nevydarená špionáž",
+            "datum_premiery": "2022-04-08"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Návštevné hodiny",
+            "datum_premiery": "2022-04-15"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Fiasko",
+            "datum_premiery": "2022-04-22"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Šialenstvá",
+            "datum_premiery": "2022-04-29"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Konečná zastávka",
+            "datum_premiery": "2022-12-02"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Srdečné pozdravy z Upshottu",
+            "datum_premiery": "2022-12-02"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Alkoholické hry",
+            "datum_premiery": "2022-12-09"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Cikáda",
+            "datum_premiery": "2022-12-16"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Politika v zasadačke",
+            "datum_premiery": "2022-12-23"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Nevyriadené účty",
+            "datum_premiery": "2022-12-30"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Zvláštne hry",
+            "datum_premiery": "2023-11-29"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Tvrdé lekcie",
+            "datum_premiery": "2023-11-29"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Vyjednávanie s tigrami",
+            "datum_premiery": "2023-12-06"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Nepozvaní hostia",
+            "datum_premiery": "2023-12-13"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Upratovanie",
+            "datum_premiery": "2023-12-20"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Stopy",
+            "datum_premiery": "2023-12-27"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Krádež identity",
+            "datum_premiery": "2024-09-04"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Cudzinec v meste",
+            "datum_premiery": "2024-09-11"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Povedz, čo si myslíš",
+            "datum_premiery": "2024-09-18"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Návraty",
+            "datum_premiery": "2024-09-25"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Hrozivé nebezpečenstvo",
+            "datum_premiery": "2024-10-02"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Ahoj a zbohom",
+            "datum_premiery": "2024-10-09"
+          }
+        ]
+      },
+      {
+        "sezona": 5,
+        "nazov": "Séria 5",
+        "epizody": [
+          {
+            "cislo": "S05E01",
+            "nazov": "Zlé rande",
+            "datum_premiery": "2025-09-24"
+          },
+          {
+            "cislo": "S05E02",
+            "nazov": "Odrezaní od sveta",
+            "datum_premiery": "2025-10-01"
+          },
+          {
+            "cislo": "S05E03",
+            "nazov": "Bájky a klamstvá",
+            "datum_premiery": "2025-10-08"
+          },
+          {
+            "cislo": "S05E04",
+            "nazov": "Farebná zbraň",
+            "datum_premiery": "2025-10-15"
+          },
+          {
+            "cislo": "S05E05",
+            "nazov": "Cirkus",
+            "datum_premiery": "2025-10-22"
+          },
+          {
+            "cislo": "S05E06",
+            "nazov": "Jazvy",
+            "datum_premiery": "2025-10-29"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 125988,
+    "nazov_en": "Silo",
+    "nazov_sk": "Silo",
+    "rok_vydania": "2023",
+    "tip": "Seriál",
+    "obsah": "V zničenej a toxickej budúcnosti žijú tisíce ľudí v obrovskom sile hlboko pod zemou. Po tom, čo jeho šerif poruší základné pravidlo a obyvatelia záhadne umierajú, strojníčka Juliette začne odhaľovať šokujúce tajomstvá a pravdu o sile.",
+    "žáner": "Sci-Fi & Fantasy, Dráma",
+    "réžia": "Neznámy",
+    "herci": "Rebecca Ferguson, Common, Harriet Walter, Chinaza Uche, Avi Nash, Rick Gomez, Tim Robbins, Shane McRae, Billy Postlethwaite, Remmie Milner",
+    "štúdiá": "AMC Studios, Nemofilms, Mimir Films, Apple Studios",
+    "hodnotenie": 8.1,
+    "pocet_hlasov": 1794,
+    "poster": "https://image.tmdb.org/t/p/w500/c2OijvbFEXBW1onbzuvENr4CGQB.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/4XccmjsOmQZw8S2iW1wvlvmb5v1.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/125988",
+    "imdb_id": "tt14688458",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/125988-silo/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Deň slobody",
+            "datum_premiery": "2023-05-04"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Holstonova voľba",
+            "datum_premiery": "2023-05-04"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Stroje",
+            "datum_premiery": "2023-05-11"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Pravda",
+            "datum_premiery": "2023-05-18"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Údržbárov chlapec",
+            "datum_premiery": "2023-05-25"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Relikvia",
+            "datum_premiery": "2023-06-01"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Strážcovia ohňa",
+            "datum_premiery": "2023-06-08"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Hanna",
+            "datum_premiery": "2023-06-15"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Útek",
+            "datum_premiery": "2023-06-22"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Povrch",
+            "datum_premiery": "2023-06-29"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Strojníčka",
+            "datum_premiery": "2024-11-14"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Poriadok",
+            "datum_premiery": "2024-11-21"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Solo",
+            "datum_premiery": "2024-11-26"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Harmónium",
+            "datum_premiery": "2024-12-05"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Zostup",
+            "datum_premiery": "2024-12-12"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Barikády",
+            "datum_premiery": "2024-12-19"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Ponor",
+            "datum_premiery": "2024-12-26"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Kniha o Quinnovcoch",
+            "datum_premiery": "2025-01-02"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Poistka",
+            "datum_premiery": "2025-01-09"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Do ohňa",
+            "datum_premiery": "2025-01-16"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 93740,
+    "nazov_en": "Foundation",
+    "nazov_sk": "Nadácia",
+    "rok_vydania": "2021",
+    "tip": "Seriál",
+    "obsah": "Seriál Foundation, na námet oceňovanej románovej série Isaaca Asimova, zobrazuje skupinu vyhnancov na veľkolepej ceste za záchranou ľudstva a opätovným vybudovaním civilizácie počas pádu Galaktického impéria.",
+    "žáner": "Sci-Fi & Fantasy, Dráma",
+    "réžia": "Neznámy",
+    "herci": "Jared Harris, Lee Pace, Lou Llobell, Laura Birn, Cassian Bilton, Terrence Mann",
+    "štúdiá": "Skydance Television, Phantom Four",
+    "hodnotenie": 7.7,
+    "pocet_hlasov": 1567,
+    "poster": "https://image.tmdb.org/t/p/w500/3tMAgHq5a9D9pc5fq8WtV2E0BUA.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/vmNj8bthBAofXgsaY6yP4bCvXko.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/93740",
+    "imdb_id": "tt0804484",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/93740-foundation/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Imperátorov mier",
+            "datum_premiery": "2021-09-23"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Príprava na život",
+            "datum_premiery": "2021-09-23"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Matematikov duch",
+            "datum_premiery": "2021-10-01"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Barbari pri bráne",
+            "datum_premiery": "2021-10-08"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Po prebudení",
+            "datum_premiery": "2021-10-14"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Smrť a panna",
+            "datum_premiery": "2021-10-21"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Záhady a mučeníci",
+            "datum_premiery": "2021-10-29"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Chýbajúci diel",
+            "datum_premiery": "2021-11-04"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Prvá kríza",
+            "datum_premiery": "2021-11-11"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Skok",
+            "datum_premiery": "2021-11-18"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "V Seldonovom tieni",
+            "datum_premiery": "2023-07-13"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Záblesk temnoty",
+            "datum_premiery": "2023-07-20"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Kráľ a občan",
+            "datum_premiery": "2023-07-27"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Kde sú hviezdy roztrúsené len veľmi riedko",
+            "datum_premiery": "2023-08-03"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Vidiaci a videný",
+            "datum_premiery": "2023-08-10"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Prečo bohovia stvorili víno",
+            "datum_premiery": "2023-08-17"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Potrebná smrť",
+            "datum_premiery": "2023-08-24"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Posledná imperátorka",
+            "datum_premiery": "2023-08-31"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Dávno, nie ďaleko",
+            "datum_premiery": "2023-09-07"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Vznik mýtov",
+            "datum_premiery": "2023-09-14"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Pieseň pre koniec všetkého",
+            "datum_premiery": "2025-07-10"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Tiene vo výpočtoch",
+            "datum_premiery": "2025-07-17"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Keď si vás nájde kniha",
+            "datum_premiery": "2025-07-24"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Sila jej zraku",
+            "datum_premiery": "2025-07-31"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Kde tyrani trávia večnosť",
+            "datum_premiery": "2025-08-07"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Tvar času",
+            "datum_premiery": "2025-08-14"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Koniec Nadácie",
+            "datum_premiery": "2025-08-21"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Riskovať vlastnú kožu",
+            "datum_premiery": "2025-08-28"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Cesty, ktoré si vyberajú nás",
+            "datum_premiery": "2025-09-04"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Temnota",
+            "datum_premiery": "2025-09-11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 95396,
+    "nazov_en": "Severance",
+    "nazov_sk": "Oddelenie",
+    "rok_vydania": "2022",
+    "tip": "Seriál",
+    "obsah": "Mark vedie tím pracovníkov, ktorí si nechali chirurgicky oddeliť spomienky na pracovný a osobný život. Keď sa však mimo práce objaví tajomný kolega, začne sa ich cesta za objavením pravdy o svojej práci.",
+    "žáner": "Dráma, Mysteriózny, Sci-Fi & Fantasy",
+    "réžia": "Neznámy",
+    "herci": "Adam Scott, Britt Lower, Tramell Tillman, Zach Cherry, Jen Tullock, Dichen Lachmanová, Sarah Bock, John Turturro, Christopher Walken, Patricia Arquette",
+    "štúdiá": "Endeavor Content, Red Hour, Fifth Season, Animals & People, Westward",
+    "hodnotenie": 8.4,
+    "pocet_hlasov": 2291,
+    "poster": "https://image.tmdb.org/t/p/w500/kwGN0qhAhPaqX11h2TR9hVJvQoO.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/95396",
+    "imdb_id": "tt11280740",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/95396-severance/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Dobrá správa o pekle",
+            "datum_premiery": "2022-02-17"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Half Loop",
+            "datum_premiery": "2022-02-17"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Vo večnosti",
+            "datum_premiery": "2022-02-24"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Ty, ktorým si",
+            "datum_premiery": "2022-03-03"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Hrozná krutosť optiky a dizajnu",
+            "datum_premiery": "2022-03-10"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Schovávačka",
+            "datum_premiery": "2022-03-17"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Vzdorovitý jazz",
+            "datum_premiery": "2022-03-24"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Čo je na večeru?",
+            "datum_premiery": "2022-03-31"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "My, ktorými sme",
+            "datum_premiery": "2022-04-07"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Dobrý deň, pani Cobelová",
+            "datum_premiery": "2025-01-16"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Zbohom, pani Selvigová",
+            "datum_premiery": "2025-01-23"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Kto je nažive?",
+            "datum_premiery": "2025-01-30"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Dolina strasti",
+            "datum_premiery": "2025-02-06"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Trójsky kôň",
+            "datum_premiery": "2025-02-13"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Attila",
+            "datum_premiery": "2025-02-20"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Chikhai Bardo",
+            "datum_premiery": "2025-02-27"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Sladký jed",
+            "datum_premiery": "2025-03-06"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Po práci",
+            "datum_premiery": "2025-03-13"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Cold Harbor",
+            "datum_premiery": "2025-03-20"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": []
+      }
+    ]
+  },
+  {
+    "tmdb_id": 90282,
+    "nazov_en": "The Morning Show",
+    "nazov_sk": "The Morning Show",
+    "rok_vydania": "2019",
+    "tip": "Seriál",
+    "obsah": "Nahliadnite do zákulisia rannej televíznej relácie. Dráma svojou úprimnosťou nešetrí nikoho a ukazuje moderné pracovisko očami ľudí, s ktorými ráno vstáva celá Amerika.",
+    "žáner": "Dráma",
+    "réžia": "Neznámy",
+    "herci": "Jennifer Aniston, Reese Witherspoon, Billy Crudup, Mark Duplass, Karen Pittman, Nicole Beharie, Marion Cotillard",
+    "štúdiá": "Echo Films, Hello Sunshine, Media Res, Bad Attitude Entertainment, Kerry Ehrin Productions, Red Shoes Pictures, Yak Yak Pictures",
+    "hodnotenie": 7.7,
+    "pocet_hlasov": 842,
+    "poster": "https://image.tmdb.org/t/p/w500/y9x2R87yt2U616736NJrP0d56dt.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/uMsTtNaUEWOE2q64m8zthBIMgen.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/90282",
+    "imdb_id": "tt7203552",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/90282-the-morning-show/watch?locale=SK",
+      "stream": "Apple TV"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "V zachmúrenej duši je vždy 3.30 ráno",
+            "datum_premiery": "2019-11-01"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Miesto pri stole",
+            "datum_premiery": "2019-11-01"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Chaos je nový kokaín",
+            "datum_premiery": "2019-11-01"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Tá ženská",
+            "datum_premiery": "2019-11-08"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Pokiaľ som tu ja, nik ti neublíži",
+            "datum_premiery": "2019-11-15"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Kyvadlo",
+            "datum_premiery": "2019-11-22"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Na šírom mori",
+            "datum_premiery": "2019-11-28"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Samota na vrchole",
+            "datum_premiery": "2019-12-06"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Ťah dámou",
+            "datum_premiery": "2019-12-13"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Rozhovor",
+            "datum_premiery": "2019-12-20"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Môj najmenej obľúbený rok",
+            "datum_premiery": "2021-09-17"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Je to len chrípka",
+            "datum_premiery": "2021-09-23"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Laura",
+            "datum_premiery": "2021-10-01"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Zabite vykŕmené teľa",
+            "datum_premiery": "2021-10-08"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Duchovia",
+            "datum_premiery": "2021-10-14"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Súkromná osoba",
+            "datum_premiery": "2021-10-21"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "La Amara Vita",
+            "datum_premiery": "2021-10-29"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Potvrdenia",
+            "datum_premiery": "2021-11-04"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Výpoveď",
+            "datum_premiery": "2021-11-11"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Horúčka",
+            "datum_premiery": "2021-11-18"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Kármánova hranica",
+            "datum_premiery": "2023-09-12"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Duch v stroji",
+            "datum_premiery": "2023-09-12"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Biely šum",
+            "datum_premiery": "2023-09-19"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Zelená",
+            "datum_premiery": "2023-09-26"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Ostrov lásky",
+            "datum_premiery": "2023-10-03"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Stanfordská študentka",
+            "datum_premiery": "2023-10-10"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Prísny dohľad",
+            "datum_premiery": "2023-10-17"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Nedokončené preteky",
+            "datum_premiery": "2023-10-24"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Uprac si priority",
+            "datum_premiery": "2023-10-31"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Vplyv prehľadu",
+            "datum_premiery": "2023-11-07"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Moja Rímska ríša",
+            "datum_premiery": "2025-09-16"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Revolúcia bude vysielaná v televízii",
+            "datum_premiery": "2025-09-23"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Bod zvratu",
+            "datum_premiery": "2025-09-30"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Tie otázky sú skvelé",
+            "datum_premiery": "2025-10-07"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Amari",
+            "datum_premiery": "2025-10-14"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Ak vtedy",
+            "datum_premiery": "2025-10-21"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Záujmová osoba",
+            "datum_premiery": "2025-10-28"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Rodičovská pasca",
+            "datum_premiery": "2025-11-04"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Un Bel Di",
+            "datum_premiery": "2025-11-11"
+          },
+          {
+            "cislo": "S04E10",
+            "nazov": "Úmyselné porušenie",
+            "datum_premiery": "2025-11-18"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 127235,
+    "nazov_en": "Invasion",
+    "nazov_sk": "Invázia",
+    "rok_vydania": "2021",
+    "tip": "Seriál",
+    "obsah": "Zem navštívil mimozemský druh, ktorý ohrozuje existenciu ľudstva. Udalosti prebiehajú v reálnom čase očami piatich bežných ľudí v rôznych častiach sveta, zatiaľ čo sa snažia pochopiť chaos, ktorý sa okolo nich odohráva.",
+    "žáner": "Sci-Fi & Fantasy, Dráma",
+    "réžia": "Neznámy",
+    "herci": "Golshifteh Farahani, 忽那汐里, Shamier Anderson, India Brown, Enver Gjokaj, Shane Zaza, Erika Alexander",
+    "štúdiá": "Genre Films, Boat Rocker Studios, Apple Studios",
+    "hodnotenie": 7.2,
+    "pocet_hlasov": 1110,
+    "poster": "https://image.tmdb.org/t/p/w500/nZ2JOu5e7Ix7Vk78Os1rGquopBQ.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/i9IEOD1Li1y89xRHKH9kiE8dt9z.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/127235",
+    "imdb_id": "tt9737326",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/127235-invasion/watch?locale=SK",
+      "stream": "Apple TV"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Posledný deň",
+            "datum_premiery": "2021-10-21"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Nehoda",
+            "datum_premiery": "2021-10-21"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Orión",
+            "datum_premiery": "2021-10-21"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Kráľ je mŕtvy",
+            "datum_premiery": "2021-10-29"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Návrat domov",
+            "datum_premiery": "2021-11-04"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Vlámanie",
+            "datum_premiery": "2021-11-11"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Nádej",
+            "datum_premiery": "2021-11-18"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Kontakt",
+            "datum_premiery": "2021-11-24"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Samé hviezdy",
+            "datum_premiery": "2021-12-02"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Prvý deň",
+            "datum_premiery": "2021-12-09"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Niečo sa zmenilo",
+            "datum_premiery": "2023-08-22"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Naháňanie duchov",
+            "datum_premiery": "2023-08-29"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Ohňostroj",
+            "datum_premiery": "2023-09-05"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Tunel",
+            "datum_premiery": "2023-09-12"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Hlas z druhej strany",
+            "datum_premiery": "2023-09-19"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Citlivé miesta",
+            "datum_premiery": "2023-09-26"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Do králičej nory",
+            "datum_premiery": "2023-10-03"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Kozmický oceán",
+            "datum_premiery": "2023-10-10"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Prelom",
+            "datum_premiery": "2023-10-17"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Starí priatelia, nové hranice",
+            "datum_premiery": "2023-10-24"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Tí, ktorých opustíme",
+            "datum_premiery": "2025-08-21"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Správa",
+            "datum_premiery": "2025-08-28"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Infinitas",
+            "datum_premiery": "2025-09-04"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Misia",
+            "datum_premiery": "2025-09-11"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Bod, z ktorého niet návratu",
+            "datum_premiery": "2025-09-18"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Marilyn",
+            "datum_premiery": "2025-09-25"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Základňa 17",
+            "datum_premiery": "2025-10-02"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Život v mŕtvej zóne",
+            "datum_premiery": "2025-10-09"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Príchod domov",
+            "datum_premiery": "2025-10-16"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Konečná",
+            "datum_premiery": "2025-10-23"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 95171,
+    "nazov_en": "Prehistoric Planet",
+    "nazov_sk": "Prehistorická planéta",
+    "rok_vydania": "2022",
+    "tip": "Seriál",
+    "obsah": "Objavujte divy nášho sveta ako nikdy predtým v tejto dokumentárnej sérii od Jona Favreaua a producentov seriálu Planéta Zem. Vráťte sa o 66 miliónov rokov späť, keď súši, moriam a oblohe vládli dinosaury a iné neobyčajné tvory.",
+    "žáner": "Dokumentárny",
+    "réžia": "Neznámy",
+    "herci": "Tom Hiddleston",
+    "štúdiá": "BBC Studios Natural History Unit, Golem Creations",
+    "hodnotenie": 8.3,
+    "pocet_hlasov": 461,
+    "poster": "https://image.tmdb.org/t/p/w500/gGBg56pOHqEgyULDX7y90Gfu8yT.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/6EmuYBkQnCcf5dB9iuz0SmjEt5s.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/95171",
+    "imdb_id": "tt10324164",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/95171-prehistoric-planet/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Pobrežia",
+            "datum_premiery": "2022-05-23"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Púšte",
+            "datum_premiery": "2022-05-24"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Sladké vody",
+            "datum_premiery": "2022-05-25"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Ľadové svety",
+            "datum_premiery": "2022-05-26"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Lesy",
+            "datum_premiery": "2022-05-27"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Ostrovy",
+            "datum_premiery": "2023-05-22"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Pustatiny",
+            "datum_premiery": "2023-05-23"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Mokrade",
+            "datum_premiery": "2023-05-24"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Oceány",
+            "datum_premiery": "2023-05-25"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Severná Amerika",
+            "datum_premiery": "2023-05-26"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Doba l'adová",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Veľký mráz",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Nová zem",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Púšte",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Trávnaté pláne",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Veľké roztápanie",
+            "datum_premiery": "2025-11-26"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 97546,
+    "nazov_en": "Ted Lasso",
+    "nazov_sk": "Ted Lasso",
+    "rok_vydania": "2020",
+    "tip": "Seriál",
+    "obsah": "Ted Lasso, tréner amerického futbalu, ktorého zavolali do Anglicka, aby manažoval futbalový tím, napriek tomu, že s týmto športom nemá absolútne žiadne skúsenosti. Dokáže Ted Lasso predviesť svoje schopnosti aj napriek cynickým hráčom a mestu plnom skeptických fanúšikov?",
+    "žáner": "Dráma, Komédia",
+    "réžia": "Neznámy",
+    "herci": "Jason Sudeikis, Hannah Waddingham, Jeremy Swift, Phil Dunster, Brett Goldstein, Brendan Hunt, Nick Mohammed, Anthony Stewart Head, Toheeb Jimoh, Cristo Fernández",
+    "štúdiá": "Doozer, Warner Bros. Television, Universal Television, Ruby's Tuna",
+    "hodnotenie": 8.4,
+    "pocet_hlasov": 2131,
+    "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/wImNeqxKsqmJ5OBw8j3I37GNFN3.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/97546",
+    "imdb_id": "tt10986410",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/97546-ted-lasso/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Pilotná časť",
+            "datum_premiery": "2020-08-14"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Sušienky",
+            "datum_premiery": "2020-08-14"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Trent Crimm: The Independent",
+            "datum_premiery": "2020-08-14"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Pre deti",
+            "datum_premiery": "2020-08-21"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Neopálené miesta",
+            "datum_premiery": "2020-08-28"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Dve esá",
+            "datum_premiery": "2020-09-04"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Nech je Rebecca opäť skvelá",
+            "datum_premiery": "2020-09-11"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Diamantové psy",
+            "datum_premiery": "2020-09-18"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Ospravedlnenia",
+            "datum_premiery": "2020-09-25"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Nádej, ktoré ťa zabije",
+            "datum_premiery": "2020-10-02"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Zbohom, Earl",
+            "datum_premiery": "2021-07-23"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Levanduľa",
+            "datum_premiery": "2021-07-30"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Urobiť najsprávnejšiu vec",
+            "datum_premiery": "2021-08-06"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Vianočné zvony",
+            "datum_premiery": "2021-08-13"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Dúha",
+            "datum_premiery": "2021-08-20"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Signál",
+            "datum_premiery": "2021-08-27"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Je to v hlave",
+            "datum_premiery": "2021-09-03"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Man City",
+            "datum_premiery": "2021-09-10"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Beard po záverečnej",
+            "datum_premiery": "2021-09-17"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Žiadna svadba a jeden pohreb",
+            "datum_premiery": "2021-09-24"
+          },
+          {
+            "cislo": "S02E11",
+            "nazov": "Polnočný vlak do Roystonu",
+            "datum_premiery": "2021-10-01"
+          },
+          {
+            "cislo": "S02E12",
+            "nazov": "Obrátenie pyramídy úspechu",
+            "datum_premiery": "2021-10-08"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Zápach škodoradosti",
+            "datum_premiery": "2023-03-14"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "(Nechcem ísť do) Chelsea",
+            "datum_premiery": "2023-03-21"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "4-5-1",
+            "datum_premiery": "2023-03-28"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Veľký týždeň",
+            "datum_premiery": "2023-04-04"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Znamenia",
+            "datum_premiery": "2023-04-11"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Slnečnice",
+            "datum_premiery": "2023-04-18"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Nitky, ktoré nás zväzujú",
+            "datum_premiery": "2023-04-25"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Do Paríža nikdy nepôjdeme",
+            "datum_premiery": "2023-05-02"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Šatňa bláznov",
+            "datum_premiery": "2023-05-09"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Reprezentačná prestávka",
+            "datum_premiery": "2023-05-16"
+          },
+          {
+            "cislo": "S03E11",
+            "nazov": "Mama City",
+            "datum_premiery": "2023-05-23"
+          },
+          {
+            "cislo": "S03E12",
+            "nazov": "Tak nabudúce, zbohom",
+            "datum_premiery": "2023-05-30"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": []
+      }
+    ]
+  },
+  {
+    "tmdb_id": 252000,
+    "nazov_en": "Down Cemetery Road",
+    "nazov_sk": "Cesta k pravde",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Keď po výbuchu domu zmizne dieťa, znepokojená susedka spojí sily so súkromnou detektívkou, aby ho našli. Tajomstvá sa rozmotávajú a objavuje sa vojenské sprisahanie, ktoré na predmestí južného Oxfordu rozpúta peklo.",
+    "žáner": "Dráma, Kriminálny, Mysteriózny",
+    "réžia": "Neznámy",
+    "herci": "Emma Thompson, Tom Goodman-Hill, Ruth Wilson, Darren Boyd, Adeel Akhtar, Adam Godley, Nathan Stewart-Jarrett, Tom Riley, Sinead Matthews, Steven Cree",
+    "štúdiá": "60Forty Films",
+    "hodnotenie": 6.2,
+    "pocet_hlasov": 23,
+    "poster": "https://image.tmdb.org/t/p/w500/7wRjJgX5OPkYZT7j2GdPKTbBiD.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/tsvFcFJYHXhkOivPUNQxHn1CjIK.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/252000",
+    "imdb_id": "tt32132630",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/252000-down-cemetery-road/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Takmer pravda",
+            "datum_premiery": "2025-10-29"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Druh žiaľu",
+            "datum_premiery": "2025-10-29"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Špinavá práca",
+            "datum_premiery": "2025-11-05"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Moji priatelia ma nemajú radi",
+            "datum_premiery": "2025-11-12"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Pomalé umieranie",
+            "datum_premiery": "2025-11-19"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Zanedbané vody",
+            "datum_premiery": "2025-11-26"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Epizóda 7",
+            "datum_premiery": "2025-12-03"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Epizóda 8",
+            "datum_premiery": "2025-12-10"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 80752,
+    "nazov_en": "See",
+    "nazov_sk": "See",
+    "rok_vydania": "2019",
+    "tip": "Seriál",
+    "obsah": "Vírus vyhladil takmer celé ľudstvo a tí, ktorí prežili, prišli o zrak. Príbeh sa odohráva niekoľko storočí v budúcnosti, keď sa narodia dvojičky s mýtickou schopnosťou vidieť. Ich otec musí chrániť svoj kmeň pred kráľovnou bažiacou po moci.",
+    "žáner": "Dráma, Sci-Fi & Fantasy, Akčný a Dobrodružný",
+    "réžia": "Neznámy",
+    "herci": "Jason Momoa, Sylvia Hoeks, Hera Hilmar, Christian Camargo, Archie Madekwe, Nesta Cooper, Eden Epstein, Olivia Cheng, Tom Mison, Michael Raymond-James",
+    "štúdiá": "Endeavor Content, Chernin Entertainment, about:blank, Tropper Ink Productions, Nebulastar, Quaker Moving Pictures",
+    "hodnotenie": 8.1,
+    "pocet_hlasov": 2737,
+    "poster": "https://image.tmdb.org/t/p/w500/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/u5N8tXgGDY6jS7R8Xn42LDeL0Dk.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/80752",
+    "imdb_id": "tt7949218",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/80752-see/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Božský plameň",
+            "datum_premiery": "2019-11-01"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Správa vo fľaši",
+            "datum_premiery": "2019-11-01"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Čerstvá krv",
+            "datum_premiery": "2019-11-01"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Rieka",
+            "datum_premiery": "2019-11-08"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Plast",
+            "datum_premiery": "2019-11-15"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Hodváb",
+            "datum_premiery": "2019-11-22"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Levanduľová cesta",
+            "datum_premiery": "2019-11-28"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Dom osvietenia",
+            "datum_premiery": "2019-12-06"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Bratia a sestry",
+            "datum_premiery": "2021-08-27"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Navždy",
+            "datum_premiery": "2021-09-03"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Kompas",
+            "datum_premiery": "2021-09-10"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Lovec",
+            "datum_premiery": "2021-09-17"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Večierok",
+            "datum_premiery": "2021-09-23"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Pravda o jednorožcoch",
+            "datum_premiery": "2021-10-01"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Kráľovnina reč",
+            "datum_premiery": "2021-10-08"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Kolísať",
+            "datum_premiery": "2021-10-14"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Ťažká je hlava",
+            "datum_premiery": "2022-08-25"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Pozor na vlkov",
+            "datum_premiery": "2022-09-01"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Táto zem je tvoja zem",
+            "datum_premiery": "2022-09-08"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Búrka",
+            "datum_premiery": "2022-09-15"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Dom osvietenia",
+            "datum_premiery": "2022-09-22"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Nížiny",
+            "datum_premiery": "2022-09-29"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Boh hromu",
+            "datum_premiery": "2022-10-06"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Vidím ťa",
+            "datum_premiery": "2022-10-13"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 87917,
+    "nazov_en": "For All Mankind",
+    "nazov_sk": "For All Mankind",
+    "rok_vydania": "2019",
+    "tip": "Seriál",
+    "obsah": "Predstavte si svet, v ktorom sa vesmírne preteky svetových mocností nikdy neskončili. Tvorca dramatického seriálu Ronald D. Moore stvárnil históriu z pohľadu „čo keby\". Príbeh je o živote astronautov NASA – hrdinov a rockových hviezd svojej doby – a ich rodín.",
+    "žáner": "Dráma, Sci-Fi & Fantasy, Vojnový a Politický",
+    "réžia": "Neznámy",
+    "herci": "Joel Kinnaman, Toby Kebbell, Krys Marshall, Edi Gathegi, Cynthy Wu, Coral Peña, Tyner Rushing, Svetlana Efremova, Wrenn Schmidt, Daniel Stern",
+    "štúdiá": "Tall Ship Productions, Sony Pictures Television",
+    "hodnotenie": 7.7,
+    "pocet_hlasov": 837,
+    "poster": "https://image.tmdb.org/t/p/w500/mNXT1QjRCEasXGH3rHCTQm0A0Su.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/87917",
+    "imdb_id": "tt7772588",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/87917-for-all-mankind/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Červený mesiac",
+            "datum_premiery": "2019-11-01"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Zostrojil Saturn V",
+            "datum_premiery": "2019-11-01"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Nixonove ženy",
+            "datum_premiery": "2019-11-01"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Hlavná posádka",
+            "datum_premiery": "2019-11-08"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Do priepasti",
+            "datum_premiery": "2019-11-15"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Návrat domov",
+            "datum_premiery": "2019-11-22"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Ahoj, Bob",
+            "datum_premiery": "2019-11-28"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Zlom",
+            "datum_premiery": "2019-12-06"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Ohnutý vták",
+            "datum_premiery": "2019-12-13"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Mesto na kopci",
+            "datum_premiery": "2019-12-20"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Všetko bude dobré",
+            "datum_premiery": "2021-02-19"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Riskantná technológia",
+            "datum_premiery": "2021-02-26"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Pravidlá nasadenia",
+            "datum_premiery": "2021-03-05"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Pathfinder",
+            "datum_premiery": "2021-03-12"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Váha",
+            "datum_premiery": "2021-03-19"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Najprepracovanejšie plány",
+            "datum_premiery": "2021-03-26"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Nebuď krutý",
+            "datum_premiery": "2021-04-02"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Na teba",
+            "datum_premiery": "2021-04-09"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Priority",
+            "datum_premiery": "2021-04-16"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Sivosť",
+            "datum_premiery": "2021-04-23"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Polaris",
+            "datum_premiery": "2022-06-09"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Veľká zmena",
+            "datum_premiery": "2022-06-16"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Staviť všetko",
+            "datum_premiery": "2022-06-23"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Údolie šťastia",
+            "datum_premiery": "2022-06-30"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Sedem minút strachu",
+            "datum_premiery": "2022-07-07"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Nová rajská záhrada",
+            "datum_premiery": "2022-07-14"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Zvrhnutie",
+            "datum_premiery": "2022-07-21"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Piesky Aresu",
+            "datum_premiery": "2022-07-28"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Návrat domov",
+            "datum_premiery": "2022-08-04"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Cudzinec v cudzej krajine",
+            "datum_premiery": "2022-08-11"
+          }
+        ]
+      },
+      {
+        "sezona": 4,
+        "nazov": "Séria 4",
+        "epizody": [
+          {
+            "cislo": "S04E01",
+            "nazov": "Glasnosť",
+            "datum_premiery": "2023-11-09"
+          },
+          {
+            "cislo": "S04E02",
+            "nazov": "Pekný solárny deň",
+            "datum_premiery": "2023-11-16"
+          },
+          {
+            "cislo": "S04E03",
+            "nazov": "Medvedie objatie",
+            "datum_premiery": "2023-11-21"
+          },
+          {
+            "cislo": "S04E04",
+            "nazov": "Rozdelený dom",
+            "datum_premiery": "2023-11-30"
+          },
+          {
+            "cislo": "S04E05",
+            "nazov": "Zlatovláska",
+            "datum_premiery": "2023-12-07"
+          },
+          {
+            "cislo": "S04E06",
+            "nazov": "Leningrad",
+            "datum_premiery": "2023-12-14"
+          },
+          {
+            "cislo": "S04E07",
+            "nazov": "Prekročenie čiary",
+            "datum_premiery": "2023-12-21"
+          },
+          {
+            "cislo": "S04E08",
+            "nazov": "Odkaz",
+            "datum_premiery": "2023-12-28"
+          },
+          {
+            "cislo": "S04E09",
+            "nazov": "Brazília",
+            "datum_premiery": "2024-01-04"
+          },
+          {
+            "cislo": "S04E10",
+            "nazov": "Perestrojka",
+            "datum_premiery": "2024-01-11"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 197449,
+    "nazov_en": "Loot",
+    "nazov_sk": "Prachy",
+    "rok_vydania": "2022",
+    "tip": "Seriál",
+    "obsah": "Po rozvode s manželom, za ktorého bola 20 rokov vydatá, musí Molly Novaková zistiť, čo robiť s 87-miliardovým vyrovnaním. Rozhodne sa znova zapojiť do svojej charitatívnej nadácie a spojiť sa so skutočným svetom, počas čoho zistí, kým skutočne je.",
+    "žáner": "Komédia",
+    "réžia": "Neznámy",
+    "herci": "Maya Rudolph, Michaela Jaé Rodriguez, Joel Kim Booster, Nat Faxon, Ron Funches, Stephanie Styles",
+    "štúdiá": "Universal Television, 3 Arts Entertainment, Animal Pictures, Alan Yang Pictures, Normal Sauce, Banana Split",
+    "hodnotenie": 6.8,
+    "pocet_hlasov": 147,
+    "poster": "https://image.tmdb.org/t/p/w500/rUK4cFbxxwXKfhIp6DlEYU2rt2D.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/wk1ylquzPsZFRSuGXyAfZ0gyHmV.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/197449",
+    "imdb_id": "tt14271498",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/197449-loot/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Pilotný diel",
+            "datum_premiery": "2022-06-23"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Bienvenidos a Miami",
+            "datum_premiery": "2022-06-23"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Horúce kreslo",
+            "datum_premiery": "2022-06-23"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Park vzrušenia",
+            "datum_premiery": "2022-06-30"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Halsa",
+            "datum_premiery": "2022-07-07"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Ceny za humanitárnu filantropiu",
+            "datum_premiery": "2022-07-14"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Francúzska spojka",
+            "datum_premiery": "2022-07-21"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Pikový večer",
+            "datum_premiery": "2022-07-28"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Jazero Cahoga",
+            "datum_premiery": "2022-08-04"
+          },
+          {
+            "cislo": "S01E10",
+            "nazov": "Samit Strieborného mesiaca",
+            "datum_premiery": "2022-08-11"
+          }
+        ]
+      },
+      {
+        "sezona": 2,
+        "nazov": "Séria 2",
+        "epizody": [
+          {
+            "cislo": "S02E01",
+            "nazov": "Miesto pre všetkých",
+            "datum_premiery": "2024-04-02"
+          },
+          {
+            "cislo": "S02E02",
+            "nazov": "Nič netuší",
+            "datum_premiery": "2024-04-02"
+          },
+          {
+            "cislo": "S02E03",
+            "nazov": "Vengeance Falls",
+            "datum_premiery": "2024-04-09"
+          },
+          {
+            "cislo": "S02E04",
+            "nazov": "Mr. špeciálny agent",
+            "datum_premiery": "2024-04-16"
+          },
+          {
+            "cislo": "S02E05",
+            "nazov": "Móllo",
+            "datum_premiery": "2024-04-23"
+          },
+          {
+            "cislo": "S02E06",
+            "nazov": "Super ženy",
+            "datum_premiery": "2024-04-30"
+          },
+          {
+            "cislo": "S02E07",
+            "nazov": "Tábor Wells",
+            "datum_premiery": "2024-05-07"
+          },
+          {
+            "cislo": "S02E08",
+            "nazov": "Grace",
+            "datum_premiery": "2024-05-14"
+          },
+          {
+            "cislo": "S02E09",
+            "nazov": "Vibrácie nálad",
+            "datum_premiery": "2024-05-21"
+          },
+          {
+            "cislo": "S02E10",
+            "nazov": "Nemali by sme existovať",
+            "datum_premiery": "2024-05-28"
+          }
+        ]
+      },
+      {
+        "sezona": 3,
+        "nazov": "Séria 3",
+        "epizody": [
+          {
+            "cislo": "S03E01",
+            "nazov": "Režim dovi-dopo",
+            "datum_premiery": "2025-10-14"
+          },
+          {
+            "cislo": "S03E02",
+            "nazov": "Tomu by som dal",
+            "datum_premiery": "2025-10-14"
+          },
+          {
+            "cislo": "S03E03",
+            "nazov": "Lady Molly",
+            "datum_premiery": "2025-10-21"
+          },
+          {
+            "cislo": "S03E04",
+            "nazov": "Buona Sera",
+            "datum_premiery": "2025-10-28"
+          },
+          {
+            "cislo": "S03E05",
+            "nazov": "Divoká jazda",
+            "datum_premiery": "2025-11-04"
+          },
+          {
+            "cislo": "S03E06",
+            "nazov": "Čo je to s nami",
+            "datum_premiery": "2025-11-11"
+          },
+          {
+            "cislo": "S03E07",
+            "nazov": "Miliardárka, krásna a nefalšovaná",
+            "datum_premiery": "2025-11-18"
+          },
+          {
+            "cislo": "S03E08",
+            "nazov": "Pán Maro Gold",
+            "datum_premiery": "2025-11-25"
+          },
+          {
+            "cislo": "S03E09",
+            "nazov": "Epizóda 9",
+            "datum_premiery": "2025-12-02"
+          },
+          {
+            "cislo": "S03E10",
+            "nazov": "Epizóda 10",
+            "datum_premiery": "2025-12-09"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tmdb_id": 196890,
+    "nazov_en": "Chief of War",
+    "nazov_sk": "Vojnový náčelník",
+    "rok_vydania": "2025",
+    "tip": "Seriál",
+    "obsah": "Štyri havajské kráľovstvá rozdelila vojna, a tak sa dravý bojovník Kaʻiana vydá na veľkolepú misiu, aby zjednotil svoj ľud – zatiaľ čo sa k ich pobrežiam blíži existenčná hrozba.",
+    "žáner": "Dráma",
+    "réžia": "Neznámy",
+    "herci": "Jason Momoa, Luciane Buchanan, Te Ao o Hinepehinga, Cliff Curtis, Kaina Makua, Moses Goods, Siua Ikale‘o, Brandon Finn, Mainei Kinimaka, Te Kohe Tuhaka",
+    "štúdiá": "Chernin Entertainment, Fifth Season, Hard J Productions, about:blank, On the Roam",
+    "hodnotenie": 7.4,
+    "pocet_hlasov": 191,
+    "poster": "https://image.tmdb.org/t/p/w500/agOaYL6CM9DmkntOs8hl41jGr26.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/2c3PCbxVgWen5HrYsaukUmfu4J9.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/tv/196890",
+    "imdb_id": "tt19381692",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/tv/196890-chief-of-war/watch?locale=SK",
+      "stream": "Apple TV, Canal+"
+    },
+    "sezony": [
+      {
+        "sezona": 1,
+        "nazov": "Séria 1",
+        "epizody": [
+          {
+            "cislo": "S01E01",
+            "nazov": "Vojnový náčelník",
+            "datum_premiery": "2025-07-31"
+          },
+          {
+            "cislo": "S01E02",
+            "nazov": "Premenlivé prúdy",
+            "datum_premiery": "2025-07-31"
+          },
+          {
+            "cislo": "S01E03",
+            "nazov": "Mesto kvetov",
+            "datum_premiery": "2025-08-07"
+          },
+          {
+            "cislo": "S01E04",
+            "nazov": "Mesto kvetov (2)",
+            "datum_premiery": "2025-08-14"
+          },
+          {
+            "cislo": "S01E05",
+            "nazov": "Preteky bohov",
+            "datum_premiery": "2025-08-21"
+          },
+          {
+            "cislo": "S01E06",
+            "nazov": "Roztrieštené pádlo",
+            "datum_premiery": "2025-08-28"
+          },
+          {
+            "cislo": "S01E07",
+            "nazov": "Deň rozliatych mozgov",
+            "datum_premiery": "2025-09-04"
+          },
+          {
+            "cislo": "S01E08",
+            "nazov": "Posvätný háj Niu",
+            "datum_premiery": "2025-09-11"
+          },
+          {
+            "cislo": "S01E09",
+            "nazov": "Čierna púšť",
+            "datum_premiery": "2025-09-18"
+          }
+        ]
+      }
+    ]
+  }
+]
