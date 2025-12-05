@@ -1,0 +1,52 @@
+[
+  {
+    "tmdb_id": 533533,
+    "nazov_en": "TRON: Ares",
+    "nazov_sk": "Tron: Ares",
+    "rok_vydania": "2025",
+    "tip": "Film",
+    "obsah": "Tron: Ares je americký akčný sci-fi film režiséra Joachima Rønninga , tretí diel kultovej sci-fi série Tron. Sleduje Aresa, vysoko sofistikovaný digitálny program, ktorý je vyslaný zo svojho elektronického sveta do reality na nebezpečnú misiu. Zatiaľ čo sa Ares snaží naučiť pohybovať v zložitom ľudskom svete, musí čeliť výzvam, ktoré stierajú hranice medzi digitálnym a fyzickým svetom. Ako dopadne prvé stretnutie ľudstva s umelou inteligentnou bytosťou?",
+    "žáner": "Science Fiction, Dobrodružný, Akčný",
+    "réžia": "Joachim Rønning",
+    "herci": "Jared Leto, Greta Lee, Evan Peters, Gillian Anderson, Jodie Turner-Smith, Jeff Bridges, Hasan Minhaj, Arturo Castro, Cameron Monaghan, Sarah Desjardins",
+    "štúdiá": "Walt Disney Pictures, Sean Bailey Productions",
+    "hodnotenie": 6.5,
+    "pocet_hlasov": 533,
+    "stopaz_min": 119,
+    "poster": "https://image.tmdb.org/t/p/w500/oSAb65J3xpwUE8pVqPvam0o4uXc.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/6bzabqH399ioM3nZScwZtzGaHIy.jpg",
+    "trailer_odkaz": "https://www.youtube.com/watch?v=Q517bxyhQxM",
+    "odkaz_tmdb": "https://www.themoviedb.org/movie/533533",
+    "imdb_id": "tt6604188",
+    "kolekcia": {
+      "nazov": "Tron (kolekcia)",
+      "id": 63043,
+      "poster": "https://image.tmdb.org/t/p/w500/1xSXZdhDHOcUrFk2nzETZm7OMpx.jpg"
+    },
+    "kde_pozriet_sk": {}
+  },
+  {
+    "tmdb_id": 1261825,
+    "nazov_en": "Oh. What. Fun.",
+    "nazov_sk": "Oh. What. Fun.",
+    "nazov_cz": "Hurá, zase Vánoce!",
+    "rok_vydania": "2025",
+    "tip": "Film",
+    "obsah": "Popis nie je dostupný.",
+    "žáner": "Komédia",
+    "réžia": "Michael Showalter",
+    "herci": "Michelle Pfeiffer, Denis Leary, Felicity Jones, Chloë Grace Moretz, Dominic Sessa, Jason Schwartzman, Rafaella Karnaby, Drake Shehan, Devery Jacobs, Joan Chen",
+    "štúdiá": "Semi-Formal Productions, Tribeca Productions, Amazon MGM Studios",
+    "hodnotenie": 6.4,
+    "pocet_hlasov": 25,
+    "stopaz_min": 108,
+    "poster": "https://image.tmdb.org/t/p/w500/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/haAekI7zBtffqILr90DkviTe9fk.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/movie/1261825",
+    "imdb_id": "tt31998881",
+    "kde_pozriet_sk": {
+      "link": "https://www.themoviedb.org/movie/1261825-oh-what-fun/watch?locale=SK",
+      "stream": "Amazon Prime Video"
+    }
+  }
+]
