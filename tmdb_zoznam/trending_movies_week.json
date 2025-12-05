@@ -1,0 +1,54 @@
+[
+  {
+    "tmdb_id": 533533,
+    "nazov_en": "TRON: Ares",
+    "nazov_sk": "Tron: Ares",
+    "rok_vydania": "2025",
+    "tip": "Film",
+    "obsah": "Tron: Ares je americký akčný sci-fi film režiséra Joachima Rønninga , tretí diel kultovej sci-fi série Tron. Sleduje Aresa, vysoko sofistikovaný digitálny program, ktorý je vyslaný zo svojho elektronického sveta do reality na nebezpečnú misiu. Zatiaľ čo sa Ares snaží naučiť pohybovať v zložitom ľudskom svete, musí čeliť výzvam, ktoré stierajú hranice medzi digitálnym a fyzickým svetom. Ako dopadne prvé stretnutie ľudstva s umelou inteligentnou bytosťou?",
+    "žáner": "Science Fiction, Dobrodružný, Akčný",
+    "réžia": "Joachim Rønning",
+    "herci": "Jared Leto, Greta Lee, Evan Peters, Gillian Anderson, Jodie Turner-Smith, Jeff Bridges, Hasan Minhaj, Arturo Castro, Cameron Monaghan, Sarah Desjardins",
+    "štúdiá": "Walt Disney Pictures, Sean Bailey Productions",
+    "hodnotenie": 6.5,
+    "pocet_hlasov": 533,
+    "stopaz_min": 119,
+    "poster": "https://image.tmdb.org/t/p/w500/oSAb65J3xpwUE8pVqPvam0o4uXc.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/6bzabqH399ioM3nZScwZtzGaHIy.jpg",
+    "trailer_odkaz": "https://www.youtube.com/watch?v=Q517bxyhQxM",
+    "odkaz_tmdb": "https://www.themoviedb.org/movie/533533",
+    "imdb_id": "tt6604188",
+    "kolekcia": {
+      "nazov": "Tron (kolekcia)",
+      "id": 63043,
+      "poster": "https://image.tmdb.org/t/p/w500/1xSXZdhDHOcUrFk2nzETZm7OMpx.jpg"
+    },
+    "kde_pozriet_sk": {}
+  },
+  {
+    "tmdb_id": 1084242,
+    "nazov_en": "Zootopia 2",
+    "nazov_sk": "Zootropolis 2",
+    "nazov_cz": "Zootropolis: Město zvířat 2",
+    "rok_vydania": "2025",
+    "tip": "Film",
+    "obsah": "Popis nie je dostupný.",
+    "žáner": "Animovaný, Rodinný, Komédia, Dobrodružný",
+    "réžia": "Jared Bush",
+    "herci": "Ginnifer Goodwin, Jason Bateman, Ke Huy Quan, Fortune Feimster, Andy Samberg, David Strathairn, Idris Elba, Shakira, Patrick Warburton, Quinta Brunson",
+    "štúdiá": "Walt Disney Animation Studios",
+    "hodnotenie": 7.7,
+    "pocet_hlasov": 337,
+    "stopaz_min": 107,
+    "poster": "https://image.tmdb.org/t/p/w500/uWlPjTrbb930mZlLNASwjwEMiS1.jpg",
+    "fanart_backdrop": "https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
+    "odkaz_tmdb": "https://www.themoviedb.org/movie/1084242",
+    "imdb_id": "tt26443597",
+    "kolekcia": {
+      "nazov": "Zootopia Collection",
+      "id": 1084247,
+      "poster": "https://image.tmdb.org/t/p/w500/u8597pdwSHOvcJQhP2cLi7a67ZW.jpg"
+    },
+    "kde_pozriet_sk": {}
+  }
+]
